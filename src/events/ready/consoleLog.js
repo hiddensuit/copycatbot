@@ -1,3 +1,3 @@
 module.exports = (client) => {
-  console.log(`${client.user.tag} is on`);
+  console.log(`\n${client.user.tag} is on\n`);
 };

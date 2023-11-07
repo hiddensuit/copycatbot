@@ -1,13 +1,10 @@
 const path = require("path");
 const getAllFiles = require("./getAllFiles");
 
-module.exports = (exceptions = []) => {
+module.exports = (dir = "commands_slash", exceptions = []) => {
   let localCommands = [];
 
-  const commandCategories = getAllFiles(
-    path.join(__dirname, "..", "commands_slash"),
-    true
-  );
+  const commandCategories = getAllFiles(path.join(__dirname, "..", dir), true);
 
   for (const commandCategory of commandCategories) {
     const commandFiles = getAllFiles(commandCategory);

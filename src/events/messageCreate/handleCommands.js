@@ -66,7 +66,7 @@ module.exports = async (client, message) => {
       }
     }
 
-    await commandObject.callback(client, message, ...args);
+    await commandObject.callback(client, message, args);
   } catch (error) {
     console.log(`there was an error running this command... ${error}`);
   }

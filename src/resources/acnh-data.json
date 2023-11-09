@@ -1,0 +1,2710 @@
+{
+  "items": [
+    {
+      "type": "sea-creature",
+      "searchName": "abalone",
+      "bells": "2000",
+      "northernMonths": "6-1",
+      "southernMonths": "12-7",
+      "hours": "16-9",
+      "img": "https://animalcrossingprices.com/images/sea-creature-menu-icon/Awabi.png"
+    },
+    {
+      "type": "material",
+      "searchName": "acorn",
+      "bells": "200",
+      "northernMonths": "9-12/10",
+      "southernMonths": "3-6/10",
+      "location": "trees-shaking",
+      "img": "https://animalcrossingprices.com/images/material-menu-icon/DIYAcorn.png"
+    },
+    {
+      "type": "sea-creature",
+      "searchName": "acorn barnacle",
+      "bells": "600",
+      "northernMonths": "-",
+      "southernMonths": "-",
+      "img": "https://animalcrossingprices.com/images/sea-creature-menu-icon/Fujitsubo.png"
+    },
+    {
+      "type": "bug",
+      "searchName": "agrias butterfly",
+      "bells": "3000",
+      "northernMonths": "4-9",
+      "southernMonths": "10-3",
+      "hours": "8-17",
+      "location": "flying",
+      "img": "https://animalcrossingprices.com/images/bug-menu-icon/Ins6.png"
+    },
+    {
+      "type": "fish",
+      "searchName": "anchovy",
+      "bells": "200",
+      "northernMonths": "-",
+      "southernMonths": "-",
+      "hours": "4-21",
+      "location": "sea",
+      "img": "https://animalcrossingprices.com/images/fish-menu-icon/Fish81.png"
+    },
+    {
+      "type": "fish",
+      "searchName": "angelfish",
+      "bells": "3000",
+      "northernMonths": "5-10",
+      "southernMonths": "11-4",
+      "hours": "16-9",
+      "location": "river",
+      "img": "https://animalcrossingprices.com/images/fish-menu-icon/Fish30.png"
+    },
+    {
+      "type": "bug",
+      "searchName": "ant",
+      "bells": "80",
+      "northernMonths": "-",
+      "southernMonths": "-",
+      "location": "rotten-food",
+      "img": "https://animalcrossingprices.com/images/bug-menu-icon/Ins26.png"
+    },
+    {
+      "type": "plant",
+      "searchName": "apple",
+      "bells": "500",
+      "img": "https://animalcrossingprices.com/images/tree-menu-icon/Apple.png"
+    },
+    {
+      "type": "plant",
+      "searchName": "apple native",
+      "bells": "100",
+      "img": "https://animalcrossingprices.com/images/tree-menu-icon/Apple.png"
+    },
+    {
+      "type": "plant",
+      "searchName": "apple tree",
+      "bells": "300",
+      "img": "https://animalcrossingprices.com/images/tree-menu-icon/PltApple.png"
+    },
+    {
+      "type": "material",
+      "searchName": "aquarius fragment",
+      "bells": "500",
+      "northernMonths": "1/20-2/18",
+      "southernMonths": "1/20-2/18",
+      "img": "https://animalcrossingprices.com/images/material-menu-icon/StarpieceAquarius.png"
+    },
+    {
+      "type": "fish",
+      "searchName": "arapaima",
+      "bells": "10000",
+      "northernMonths": "6-9",
+      "southernMonths": "12-3",
+      "hours": "16-9",
+      "location": "river",
+      "img": "https://animalcrossingprices.com/images/fish-menu-icon/Fish36.png"
+    },
+    {
+      "type": "material",
+      "searchName": "aries fragment",
+      "bells": "500",
+      "northernMonths": "2/21-4/19",
+      "southernMonths": "2/21-4/19",
+      "img": "https://animalcrossingprices.com/images/material-menu-icon/StarpieceAries.png"
+    },
+    {
+      "type": "fish",
+      "searchName": "arowana",
+      "bells": "10000",
+      "northernMonths": "6-9",
+      "southernMonths": "12-3",
+      "hours": "16-9",
+      "location": "river",
+      "img": "https://animalcrossingprices.com/images/fish-menu-icon/Fish33.png"
+    },
+    {
+      "type": "bug",
+      "searchName": "atlas moth",
+      "bells": "3000",
+      "northernMonths": "4-9",
+      "southernMonths": "10-3",
+      "hours": "19-4",
+      "location": "trees",
+      "img": "https://animalcrossingprices.com/images/bug-menu-icon/Ins10.png"
+    },
+    {
+      "type": "plant",
+      "searchName": "azalea pink white",
+      "bells": "140",
+      "northernMonths": "4/11-5",
+      "southernMonths": "10/11-11",
+      "img": "https://animalcrossingprices.com/images/bush-menu-icon/PltAzaleaPink.png"
+    },
+    {
+      "type": "bug",
+      "searchName": "bagworm",
+      "bells": "600",
+      "northernMonths": "-",
+      "southernMonths": "-",
+      "location": "trees-shaking",
+      "img": "https://animalcrossingprices.com/images/bug-menu-icon/Ins36.png"
+    },
+    {
+      "type": "material",
+      "searchName": "bamboo piece",
+      "bells": "80",
+      "img": "https://animalcrossingprices.com/images/material-menu-icon/DIYBamboo.png"
+    },
+    {
+      "type": "plant",
+      "searchName": "bamboo shoot",
+      "bells": "250",
+      "img": "https://animalcrossingprices.com/images/vegetable-menu-icon/BanbooShoot.png"
+    },
+    {
+      "type": "plant",
+      "searchName": "bamboo tree",
+      "bells": "1500",
+      "img": "https://animalcrossingprices.com/images/tree-menu-icon/PltBamboo.png"
+    },
+    {
+      "type": "bug",
+      "searchName": "banded dragonfly",
+      "bells": "4500",
+      "northernMonths": "5-10",
+      "southernMonths": "11-4",
+      "hours": "8-17",
+      "location": "flying",
+      "img": "https://animalcrossingprices.com/images/bug-menu-icon/Ins24.png"
+    },
+    {
+      "type": "fish",
+      "searchName": "barred knifejaw",
+      "bells": "5000",
+      "northernMonths": "3-11",
+      "southernMonths": "9-5",
+      "location": "sea",
+      "img": "https://animalcrossingprices.com/images/fish-menu-icon/Fish47.png"
+    },
+    {
+      "type": "fish",
+      "searchName": "barreleye",
+      "bells": "12000",
+      "northernMonths": "-",
+      "southernMonths": "-",
+      "hours": "21-4",
+      "location": "sea",
+      "img": "https://animalcrossingprices.com/images/fish-menu-icon/Fish84.png"
+    },
+    {
+      "type": "bug",
+      "searchName": "bell cricket",
+      "bells": "430",
+      "northernMonths": "9-10",
+      "southernMonths": "3-4",
+      "hours": "17-8",
+      "location": "ground",
+      "img": "https://animalcrossingprices.com/images/bug-menu-icon/Ins31.png"
+    },
+    {
+      "type": "fish",
+      "searchName": "betta",
+      "bells": "2500",
+      "northernMonths": "5-10",
+      "southernMonths": "11-4",
+      "hours": "9-16",
+      "location": "river",
+      "img": "https://animalcrossingprices.com/images/fish-menu-icon/Fish77.png"
+    },
+    {
+      "type": "fish",
+      "searchName": "bitterling",
+      "bells": "900",
+      "northernMonths": "11-3",
+      "southernMonths": "5-9",
+      "location": "river",
+      "img": "https://animalcrossingprices.com/images/fish-menu-icon/Fish0.png"
+    },
+    {
+      "type": "fish",
+      "searchName": "black bass",
+      "bells": "400",
+      "northernMonths": "-",
+      "southernMonths": "-",
+      "location": "river",
+      "img": "https://animalcrossingprices.com/images/fish-menu-icon/Fish19.png"
+    },
+    {
+      "type": "fish",
+      "searchName": "blowfish",
+      "bells": "5000",
+      "northernMonths": "11-2",
+      "southernMonths": "5-8",
+      "hours": "18-4",
+      "location": "sea",
+      "img": "https://animalcrossingprices.com/images/fish-menu-icon/Fish73.png"
+    },
+    {
+      "type": "fish",
+      "searchName": "blue marlin",
+      "bells": "10000",
+      "northernMonths": "7-9,11-4",
+      "southernMonths": "1-3,5-10",
+      "location": "pier",
+      "img": "https://animalcrossingprices.com/images/fish-menu-icon/Fish58.png"
+    },
+    {
+      "type": "bug",
+      "searchName": "blue weevil beetle",
+      "bells": "800",
+      "northernMonths": "7-8",
+      "southernMonths": "1-2",
+      "location": "trees-palm",
+      "img": "https://animalcrossingprices.com/images/bug-menu-icon/Ins80.png"
+    },
+    {
+      "type": "fish",
+      "searchName": "bluegill",
+      "bells": "180",
+      "northernMonths": "-",
+      "southernMonths": "-",
+      "hours": "9-16",
+      "location": "river",
+      "img": "https://animalcrossingprices.com/images/fish-menu-icon/Fish17.png"
+    },
+    {
+      "type": "material",
+      "searchName": "boot",
+      "bells": "10",
+      "img": "https://animalcrossingprices.com/images/material-menu-icon/Boots.png"
+    },
+    {
+      "type": "bug",
+      "searchName": "brown cicada",
+      "bells": "250",
+      "northernMonths": "7-8",
+      "southernMonths": "1-2",
+      "hours": "8-17",
+      "location": "trees",
+      "img": "https://animalcrossingprices.com/images/bug-menu-icon/Ins17.png"
+    },
+    {
+      "type": "fish",
+      "searchName": "butterfly fish",
+      "bells": "1000",
+      "northernMonths": "4-9",
+      "southernMonths": "10-3",
+      "location": "sea",
+      "img": "https://animalcrossingprices.com/images/fish-menu-icon/Fish42.png"
+    },
+    {
+      "type": "plant",
+      "searchName": "camellia pink red",
+      "bells": "140",
+      "northernMonths": "1-3",
+      "southernMonths": "7-9",
+      "img": "https://animalcrossingprices.com/images/bush-menu-icon/PltBushCamelliaPink.png"
+    },
+    {
+      "type": "material",
+      "searchName": "cancer fragment",
+      "bells": "500",
+      "northernMonths": "6/22-7/22",
+      "southernMonths": "6/22-7/22",
+      "img": "https://animalcrossingprices.com/images/material-menu-icon/StarpieceCancer.png"
+    },
+    {
+      "type": "material",
+      "searchName": "capricorn fragment",
+      "bells": "500",
+      "northernMonths": "12/22-2/19",
+      "southernMonths": "12/22-2/19",
+      "img": "https://animalcrossingprices.com/images/material-menu-icon/StarpieceCapricornus.png"
+    },
+    {
+      "type": "fish",
+      "searchName": "carp",
+      "bells": "300",
+      "northernMonths": "-",
+      "southernMonths": "-",
+      "location": "pond",
+      "img": "https://animalcrossingprices.com/images/fish-menu-icon/Fish5.png"
+    },
+    {
+      "type": "plant",
+      "searchName": "carrot",
+      "bells": "350",
+      "img": "https://animalcrossingprices.com/images/vegetable-menu-icon/Carrot.png"
+    },
+    {
+      "type": "fish",
+      "searchName": "catfish",
+      "bells": "800",
+      "northernMonths": "5-10",
+      "southernMonths": "11-4",
+      "hours": "16-9",
+      "location": "pond",
+      "img": "https://animalcrossingprices.com/images/fish-menu-icon/Fish14.png"
+    },
+    {
+      "type": "plant",
+      "searchName": "cedar tree",
+      "bells": "240",
+      "img": "https://animalcrossingprices.com/images/tree-menu-icon/PltConifer.png"
+    },
+    {
+      "type": "bug",
+      "searchName": "centipede",
+      "bells": "300",
+      "northernMonths": "9-6",
+      "southernMonths": "3-12",
+      "hours": "16-23",
+      "location": "rocks",
+      "img": "https://animalcrossingprices.com/images/bug-menu-icon/Ins60.png"
+    },
+    {
+      "type": "sea-creature",
+      "searchName": "chambered nautilus",
+      "bells": "1800",
+      "northernMonths": "3-6,9-11",
+      "southernMonths": "9-12,3-5",
+      "hours": "16-9",
+      "img": "https://animalcrossingprices.com/images/sea-creature-menu-icon/Oumugai.png"
+    },
+    {
+      "type": "fish",
+      "searchName": "char",
+      "bells": "3800",
+      "northernMonths": "3-6,9-11",
+      "southernMonths": "9-12,3-5",
+      "hours": "16-9",
+      "location": "river-clifftop",
+      "img": "https://animalcrossingprices.com/images/fish-menu-icon/Fish24.png"
+    },
+    {
+      "type": "plant",
+      "searchName": "cherry",
+      "bells": "500",
+      "img": "https://animalcrossingprices.com/images/tree-menu-icon/Cherry.png"
+    },
+    {
+      "type": "plant",
+      "searchName": "cherry native",
+      "bells": "100",
+      "img": "https://animalcrossingprices.com/images/tree-menu-icon/Cherry.png"
+    },
+    {
+      "type": "fish",
+      "searchName": "cherry salmon",
+      "bells": "1000",
+      "northernMonths": "3-6,9-11",
+      "southernMonths": "9-12,3-5",
+      "hours": "16-9",
+      "location": "river-clifftop",
+      "img": "https://animalcrossingprices.com/images/fish-menu-icon/Fish23.png"
+    },
+    {
+      "type": "plant",
+      "searchName": "cherry tree",
+      "bells": "300",
+      "img": "https://animalcrossingprices.com/images/tree-menu-icon/PltCherry.png"
+    },
+    {
+      "type": "material",
+      "searchName": "cherry blossom petal",
+      "bells": "200",
+      "northernMonths": "4/1-4/10",
+      "southernMonths": "10/1-10/10",
+      "img": "https://animalcrossingprices.com/images/material-menu-icon/Sakurapetal.png"
+    },
+    {
+      "type": "bug",
+      "searchName": "cicada shell",
+      "bells": "10",
+      "northernMonths": "7-8",
+      "southernMonths": "1-2",
+      "location": "trees",
+      "img": "https://animalcrossingprices.com/images/bug-menu-icon/Ins69.png"
+    },
+    {
+      "type": "bug",
+      "searchName": "citrus long horned beetle",
+      "bells": "350",
+      "northernMonths": "-",
+      "southernMonths": "-",
+      "location": "tree-stumps",
+      "img": "https://animalcrossingprices.com/images/bug-menu-icon/Ins39.png"
+    },
+    {
+      "type": "material",
+      "searchName": "clay",
+      "bells": "100",
+      "img": "https://animalcrossingprices.com/images/material-menu-icon/OreClay.png"
+    },
+    {
+      "type": "fish",
+      "searchName": "clown fish",
+      "bells": "650",
+      "northernMonths": "4-9",
+      "southernMonths": "10-3",
+      "location": "sea",
+      "img": "https://animalcrossingprices.com/images/fish-menu-icon/Fish40.png"
+    },
+    {
+      "type": "material",
+      "searchName": "clump of weeds",
+      "bells": "10",
+      "img": "https://animalcrossingprices.com/images/material-menu-icon/Weed.png"
+    },
+    {
+      "type": "plant",
+      "searchName": "coconut",
+      "bells": "250",
+      "img": "https://animalcrossingprices.com/images/tree-menu-icon/Coconut.png"
+    },
+    {
+      "type": "plant",
+      "searchName": "coconut tree",
+      "bells": "500",
+      "img": "https://animalcrossingprices.com/images/tree-menu-icon/PltPalm.png"
+    },
+    {
+      "type": "fish",
+      "searchName": "coelacanth",
+      "bells": "15000",
+      "northernMonths": "-",
+      "southernMonths": "-",
+      "location": "sea-rain",
+      "img": "https://animalcrossingprices.com/images/fish-menu-icon/Fish63.png"
+    },
+    {
+      "type": "bug",
+      "searchName": "common bluebottle",
+      "bells": "300",
+      "northernMonths": "4-8",
+      "southernMonths": "10-2",
+      "hours": "4-19",
+      "location": "flying",
+      "img": "https://animalcrossingprices.com/images/bug-menu-icon/Ins72.png"
+    },
+    {
+      "type": "bug",
+      "searchName": "common butterfly",
+      "bells": "160",
+      "northernMonths": "9-6",
+      "southernMonths": "3-12",
+      "hours": "4-19",
+      "location": "flying",
+      "img": "https://animalcrossingprices.com/images/bug-menu-icon/Ins0.png"
+    },
+    {
+      "type": "shell",
+      "searchName": "conch",
+      "bells": "700",
+      "img": "https://animalcrossingprices.com/images/shell-menu-icon/Shell1.png"
+    },
+    {
+      "type": "shell",
+      "searchName": "coral",
+      "bells": "500",
+      "img": "https://animalcrossingprices.com/images/shell-menu-icon/Shell3.png"
+    },
+    {
+      "type": "plant",
+      "searchName": "cosmos black",
+      "bells": "240",
+      "img": "https://animalcrossingprices.com/images/flower-menu-icon/Cosmos5.png"
+    },
+    {
+      "type": "plant",
+      "searchName": "cosmos orange pink",
+      "bells": "80",
+      "img": "https://animalcrossingprices.com/images/flower-menu-icon/Cosmos4.png"
+    },
+    {
+      "type": "plant",
+      "searchName": "cosmos red white yellow",
+      "bells": "40",
+      "img": "https://animalcrossingprices.com/images/flower-menu-icon/Cosmos0.png"
+    },
+    {
+      "type": "shell",
+      "searchName": "cowrie",
+      "bells": "60",
+      "img": "https://animalcrossingprices.com/images/shell-menu-icon/Shell7.png"
+    },
+    {
+      "type": "fish",
+      "searchName": "crawfish",
+      "bells": "200",
+      "northernMonths": "4-9",
+      "southernMonths": "10-3",
+      "location": "pond",
+      "img": "https://animalcrossingprices.com/images/fish-menu-icon/Fish10.png"
+    },
+    {
+      "type": "bug",
+      "searchName": "cricket",
+      "bells": "130",
+      "northernMonths": "9-11",
+      "southernMonths": "3-5",
+      "hours": "17-8",
+      "location": "ground",
+      "img": "https://animalcrossingprices.com/images/bug-menu-icon/Ins30.png"
+    },
+    {
+      "type": "fish",
+      "searchName": "crucian carp",
+      "bells": "160",
+      "northernMonths": "-",
+      "southernMonths": "-",
+      "location": "river",
+      "img": "https://animalcrossingprices.com/images/fish-menu-icon/Fish2.png"
+    },
+    {
+      "type": "bug",
+      "searchName": "cyclommatus stag",
+      "bells": "8000",
+      "northernMonths": "7-8",
+      "southernMonths": "1-2",
+      "hours": "17-8",
+      "location": "trees",
+      "img": "https://animalcrossingprices.com/images/bug-menu-icon/Ins49.png"
+    },
+    {
+      "type": "fish",
+      "searchName": "dab",
+      "bells": "300",
+      "northernMonths": "10-4",
+      "southernMonths": "4-10",
+      "location": "sea",
+      "img": "https://animalcrossingprices.com/images/fish-menu-icon/Fish50.png"
+    },
+    {
+      "type": "fish",
+      "searchName": "dace",
+      "bells": "240",
+      "northernMonths": "-",
+      "southernMonths": "-",
+      "hours": "16-9",
+      "location": "river",
+      "img": "https://animalcrossingprices.com/images/fish-menu-icon/Fish3.png"
+    },
+    {
+      "type": "bug",
+      "searchName": "damselfly",
+      "bells": "500",
+      "northernMonths": "11-2",
+      "southernMonths": "5-8",
+      "location": "flying",
+      "img": "https://animalcrossingprices.com/images/bug-menu-icon/Ins81.png"
+    },
+    {
+      "type": "bug",
+      "searchName": "darner dragonfly",
+      "bells": "230",
+      "northernMonths": "4-10",
+      "southernMonths": "10-4",
+      "hours": "8-17",
+      "location": "flying",
+      "img": "https://animalcrossingprices.com/images/bug-menu-icon/Ins23.png"
+    },
+    {
+      "type": "bug",
+      "searchName": "diving beetle",
+      "bells": "800",
+      "northernMonths": "5-9",
+      "southernMonths": "11-3",
+      "hours": "8-19",
+      "location": "freshwater",
+      "img": "https://animalcrossingprices.com/images/bug-menu-icon/Ins28.png"
+    },
+    {
+      "type": "fish",
+      "searchName": "dorado",
+      "bells": "15000",
+      "northernMonths": "6-9",
+      "southernMonths": "12-3",
+      "hours": "4-21",
+      "location": "river",
+      "img": "https://animalcrossingprices.com/images/fish-menu-icon/Fish34.png"
+    },
+    {
+      "type": "bug",
+      "searchName": "drone beetle",
+      "bells": "200",
+      "northernMonths": "6-8",
+      "southernMonths": "12-2",
+      "location": "trees",
+      "img": "https://animalcrossingprices.com/images/bug-menu-icon/Ins75.png"
+    },
+    {
+      "type": "bug",
+      "searchName": "dung beetle",
+      "bells": "3000",
+      "northernMonths": "12-2",
+      "southernMonths": "6-8",
+      "location": "snowballs",
+      "img": "https://animalcrossingprices.com/images/bug-menu-icon/Ins40.png"
+    },
+    {
+      "type": "sea-creature",
+      "searchName": "dungesness crab",
+      "bells": "1900",
+      "northernMonths": "11-5",
+      "southernMonths": "5-11",
+      "img": "https://animalcrossingprices.com/images/sea-creature-menu-icon/DungenessCrab.png"
+    },
+    {
+      "type": "bug",
+      "searchName": "earth boring dung beetle",
+      "bells": "300",
+      "northernMonths": "7-9",
+      "southernMonths": "1-3",
+      "location": "ground",
+      "img": "https://animalcrossingprices.com/images/bug-menu-icon/Ins42.png"
+    },
+    {
+      "type": "material",
+      "searchName": "egg earth leaf sky stone water wood",
+      "bells": "200",
+      "northernMonths": "4/2-4/9",
+      "southernMonths": "4/2-4/9",
+      "img": "https://animalcrossingprices.com/images/material-menu-icon/EggFish.png"
+    },
+    {
+      "type": "plant",
+      "searchName": "elegant mushroom",
+      "bells": "10000",
+      "northernMonths": "11",
+      "southernMonths": "5",
+      "location": "ground",
+      "img": "https://animalcrossingprices.com/images/mushroom-menu-icon/Mush0.png"
+    },
+    {
+      "type": "bug",
+      "searchName": "emperor butterfly",
+      "bells": "4000",
+      "northernMonths": "6-9,12-3",
+      "southernMonths": "12-3,6-9",
+      "hours": "17-8",
+      "location": "flying",
+      "img": "https://animalcrossingprices.com/images/bug-menu-icon/Ins5.png"
+    },
+    {
+      "type": "material",
+      "searchName": "empty can",
+      "bells": "10",
+      "img": "https://animalcrossingprices.com/images/material-menu-icon/Can.png"
+    },
+    {
+      "type": "bug",
+      "searchName": "evening cicada",
+      "bells": "660",
+      "northernMonths": "7-8",
+      "southernMonths": "1-2",
+      "hours": "4-8,16-19",
+      "location": "trees",
+      "img": "https://animalcrossingprices.com/images/bug-menu-icon/Ins20.png"
+    },
+    {
+      "type": "material",
+      "searchName": "feather blue green purple red",
+      "bells": "200",
+      "northernMonths": "2/12",
+      "southernMonths": "2/12",
+      "img": "https://animalcrossingprices.com/images/material-menu-icon/FeatherBlu.png"
+    },
+    {
+      "type": "material",
+      "searchName": "feather rainbow",
+      "bells": "1600",
+      "northernMonths": "2/12",
+      "southernMonths": "2/12",
+      "img": "https://animalcrossingprices.com/images/material-menu-icon/FeatherRainbow.png"
+    },
+    {
+      "type": "bug",
+      "searchName": "firefly",
+      "bells": "300",
+      "northernMonths": "6",
+      "southernMonths": "12",
+      "hours": "19-4",
+      "location": "flying",
+      "img": "https://animalcrossingprices.com/images/bug-menu-icon/Ins41.png"
+    },
+    {
+      "type": "sea-creature",
+      "searchName": "firefly squid",
+      "bells": "1400",
+      "northernMonths": "3-6",
+      "southernMonths": "9-12",
+      "hours": "21-4",
+      "img": "https://animalcrossingprices.com/images/sea-creature-menu-icon/Hotaruika.png"
+    },
+    {
+      "type": "plant",
+      "searchName": "flat mushroom",
+      "bells": "200",
+      "northernMonths": "11",
+      "southernMonths": "5",
+      "location": "ground",
+      "img": "https://animalcrossingprices.com/images/mushroom-menu-icon/Mush3.png"
+    },
+    {
+      "type": "sea-creature",
+      "searchName": "flatworm",
+      "bells": "700",
+      "northernMonths": "8-9",
+      "southernMonths": "2-3",
+      "hours": "16-9",
+      "img": "https://animalcrossingprices.com/images/sea-creature-menu-icon/Hiramushi.png"
+    },
+    {
+      "type": "bug",
+      "searchName": "flea",
+      "bells": "70",
+      "northernMonths": "4-11",
+      "southernMonths": "10-5",
+      "location": "villagers",
+      "img": "https://animalcrossingprices.com/images/bug-menu-icon/Ins56.png"
+    },
+    {
+      "type": "bug",
+      "searchName": "fly",
+      "bells": "60",
+      "northernMonths": "-",
+      "southernMonths": "-",
+      "location": "trash",
+      "img": "https://animalcrossingprices.com/images/bug-menu-icon/Ins59.png"
+    },
+    {
+      "type": "fish",
+      "searchName": "football fish",
+      "bells": "2500",
+      "northernMonths": "11-3",
+      "southernMonths": "5-9",
+      "hours": "16-9",
+      "location": "sea",
+      "img": "https://animalcrossingprices.com/images/fish-menu-icon/Fish56.png"
+    },
+    {
+      "type": "fish",
+      "searchName": "freshwater goby",
+      "bells": "400",
+      "northernMonths": "-",
+      "southernMonths": "-",
+      "hours": "16-9",
+      "location": "river",
+      "img": "https://animalcrossingprices.com/images/fish-menu-icon/Fish12.png"
+    },
+    {
+      "type": "fish",
+      "searchName": "frog",
+      "bells": "120",
+      "northernMonths": "5-8",
+      "southernMonths": "11-2",
+      "location": "pond",
+      "img": "https://animalcrossingprices.com/images/fish-menu-icon/Fish11.png"
+    },
+    {
+      "type": "fish",
+      "searchName": "gar",
+      "bells": "6000",
+      "northernMonths": "6-9",
+      "southernMonths": "12-3",
+      "hours": "16-9",
+      "location": "pond",
+      "img": "https://animalcrossingprices.com/images/fish-menu-icon/Fish35.png"
+    },
+    {
+      "type": "sea-creature",
+      "searchName": "gazami crab",
+      "bells": "2200",
+      "northernMonths": "6-11",
+      "southernMonths": "12-5",
+      "img": "https://animalcrossingprices.com/images/sea-creature-menu-icon/Gazami.png"
+    },
+    {
+      "type": "material",
+      "searchName": "gemini fragment",
+      "bells": "500",
+      "northernMonths": "5/21-6/21",
+      "southernMonths": "5/21-6/21",
+      "img": "https://animalcrossingprices.com/images/material-menu-icon/StarpieceGemini.png"
+    },
+    {
+      "type": "bug",
+      "searchName": "giant cicada",
+      "bells": "500",
+      "northernMonths": "7-8",
+      "southernMonths": "1-2",
+      "hours": "8-17",
+      "location": "trees",
+      "img": "https://animalcrossingprices.com/images/bug-menu-icon/Ins65.png"
+    },
+    {
+      "type": "shell",
+      "searchName": "giant clam",
+      "bells": "900",
+      "img": "https://animalcrossingprices.com/images/shell-menu-icon/Shell2.png"
+    },
+    {
+      "type": "sea-creature",
+      "searchName": "giant isopod",
+      "bells": "12000",
+      "northernMonths": "7-10",
+      "southernMonths": "1-4",
+      "hours": "9-16,21-4",
+      "img": "https://animalcrossingprices.com/images/sea-creature-menu-icon/Daiougusokumushi.png"
+    },
+    {
+      "type": "fish",
+      "searchName": "giant snakehead",
+      "bells": "5500",
+      "northernMonths": "6-8",
+      "southernMonths": "12-2",
+      "hours": "9-16",
+      "location": "pond",
+      "img": "https://animalcrossingprices.com/images/fish-menu-icon/Fish16.png"
+    },
+    {
+      "type": "bug",
+      "searchName": "giant stag",
+      "bells": "10000",
+      "northernMonths": "7-8",
+      "southernMonths": "1-2",
+      "hours": "23-8",
+      "location": "trees",
+      "img": "https://animalcrossingprices.com/images/bug-menu-icon/Ins47.png"
+    },
+    {
+      "type": "fish",
+      "searchName": "giant trevally",
+      "bells": "4500",
+      "northernMonths": "5-10",
+      "southernMonths": "11-4",
+      "location": "pier",
+      "img": "https://animalcrossingprices.com/images/fish-menu-icon/Fish70.png"
+    },
+    {
+      "type": "bug",
+      "searchName": "giant water bug",
+      "bells": "2000",
+      "northernMonths": "4-9",
+      "southernMonths": "10-3",
+      "hours": "19-8",
+      "location": "freshwater",
+      "img": "https://animalcrossingprices.com/images/bug-menu-icon/Ins76.png"
+    },
+    {
+      "type": "sea-creature",
+      "searchName": "gigas giant clam",
+      "bells": "15000",
+      "northernMonths": "5-9",
+      "southernMonths": "11-3",
+      "img": "https://animalcrossingprices.com/images/sea-creature-menu-icon/Shakogai.png"
+    },
+    {
+      "type": "bug",
+      "searchName": "giraffe stag",
+      "bells": "12000",
+      "northernMonths": "7-8",
+      "southernMonths": "1-2",
+      "hours": "17-8",
+      "location": "trees",
+      "img": "https://animalcrossingprices.com/images/bug-menu-icon/Ins77.png"
+    },
+    {
+      "type": "plant",
+      "searchName": "glowing moss",
+      "bells": "25",
+      "img": "https://animalcrossingprices.com/images/material-menu-icon/PltWeedLight.png"
+    },
+    {
+      "type": "material",
+      "searchName": "gold",
+      "bells": "10000",
+      "img": "https://animalcrossingprices.com/images/material-menu-icon/Gold_Ore.png"
+    },
+    {
+      "type": "bug",
+      "searchName": "golden stag",
+      "bells": "12000",
+      "northernMonths": "7-8",
+      "southernMonths": "1-2",
+      "hours": "17-8",
+      "location": "trees",
+      "img": "https://animalcrossingprices.com/images/bug-menu-icon/Ins50.png"
+    },
+    {
+      "type": "fish",
+      "searchName": "golden trout",
+      "bells": "15000",
+      "northernMonths": "3-5,9-11",
+      "southernMonths": "9-11,3-5",
+      "hours": "16-9",
+      "location": "river-clifftop",
+      "img": "https://animalcrossingprices.com/images/fish-menu-icon/Fish79.png"
+    },
+    {
+      "type": "fish",
+      "searchName": "goldfish",
+      "bells": "1300",
+      "northernMonths": "-",
+      "southernMonths": "-",
+      "location": "pond",
+      "img": "https://animalcrossingprices.com/images/fish-menu-icon/Fish7.png"
+    },
+    {
+      "type": "bug",
+      "searchName": "goliath beetle",
+      "bells": "8000",
+      "northernMonths": "6-9",
+      "southernMonths": "12-3",
+      "hours": "17-8",
+      "location": "trees-palm",
+      "img": "https://animalcrossingprices.com/images/bug-menu-icon/Ins55.png"
+    },
+    {
+      "type": "bug",
+      "searchName": "grasshopper",
+      "bells": "160",
+      "northernMonths": "7-9",
+      "southernMonths": "1-3",
+      "hours": "8-17",
+      "location": "ground",
+      "img": "https://animalcrossingprices.com/images/bug-menu-icon/Ins32.png"
+    },
+    {
+      "type": "bug",
+      "searchName": "great purple emperor",
+      "bells": "3000",
+      "northernMonths": "5-8",
+      "southernMonths": "11-2",
+      "hours": "4-19",
+      "location": "flying",
+      "img": "https://animalcrossingprices.com/images/bug-menu-icon/Ins74.png"
+    },
+    {
+      "type": "fish",
+      "searchName": "great white shark",
+      "bells": "15000",
+      "northernMonths": "6-9",
+      "southernMonths": "12-3",
+      "hours": "16-9",
+      "location": "sea",
+      "img": "https://animalcrossingprices.com/images/fish-menu-icon/Fish62.png"
+    },
+    {
+      "type": "fish",
+      "searchName": "guppy",
+      "bells": "1300",
+      "northernMonths": "4-11",
+      "southernMonths": "10-5",
+      "hours": "9-16",
+      "location": "river",
+      "img": "https://animalcrossingprices.com/images/fish-menu-icon/Fish29.png"
+    },
+    {
+      "type": "material",
+      "searchName": "gyroid fragment",
+      "bells": "414",
+      "img": "https://animalcrossingprices.com/images/material-menu-icon/HaniwaPiece.png"
+    },
+    {
+      "type": "fish",
+      "searchName": "hammerhead shark",
+      "bells": "8000",
+      "northernMonths": "6-9",
+      "southernMonths": "12-3",
+      "hours": "16-9",
+      "location": "sea",
+      "img": "https://animalcrossingprices.com/images/fish-menu-icon/Fish61.png"
+    },
+    {
+      "type": "material",
+      "searchName": "hard wood",
+      "bells": "60",
+      "img": "https://animalcrossingprices.com/images/material-menu-icon/DIYWoodHard.png"
+    },
+    {
+      "type": "plant",
+      "searchName": "hardwood tree",
+      "bells": "240",
+      "img": "https://animalcrossingprices.com/images/tree-menu-icon/PltOak.png"
+    },
+    {
+      "type": "material",
+      "searchName": "heart crystal",
+      "bells": "100",
+      "northernMonths": "6/1-6/30",
+      "southernMonths": "6/1-6/30",
+      "img": "https://animalcrossingprices.com/images/material-menu-icon/Love.png"
+    },
+    {
+      "type": "bug",
+      "searchName": "hermit crab",
+      "bells": "1000",
+      "northernMonths": "-",
+      "southernMonths": "-",
+      "hours": "19-8",
+      "location": "beach",
+      "img": "https://animalcrossingprices.com/images/bug-menu-icon/Ins66.png"
+    },
+    {
+      "type": "plant",
+      "searchName": "hibiscus red yellow",
+      "bells": "140",
+      "northernMonths": "6/21-9/20",
+      "southernMonths": "12/21-3/20",
+      "img": "https://animalcrossingprices.com/images/bush-menu-icon/PltHibiscusRed.png"
+    },
+    {
+      "type": "plant",
+      "searchName": "holly",
+      "bells": "140",
+      "northernMonths": "11-12",
+      "southernMonths": "5-6",
+      "img": "https://animalcrossingprices.com/images/bush-menu-icon/PltHolly.png"
+    },
+    {
+      "type": "bug",
+      "searchName": "honeybee",
+      "bells": "200",
+      "northernMonths": "3-7",
+      "southernMonths": "9-1",
+      "hours": "8-17",
+      "location": "flying",
+      "img": "https://animalcrossingprices.com/images/bug-menu-icon/Ins11.png"
+    },
+    {
+      "type": "bug",
+      "searchName": "horned atlas",
+      "bells": "8000",
+      "northernMonths": "7-8",
+      "southernMonths": "1-2",
+      "hours": "17-8",
+      "location": "trees",
+      "img": "https://animalcrossingprices.com/images/bug-menu-icon/Ins52.png"
+    },
+    {
+      "type": "bug",
+      "searchName": "horned dynastid",
+      "bells": "1350",
+      "northernMonths": "7-8",
+      "southernMonths": "1-2",
+      "hours": "17-8",
+      "location": "trees",
+      "img": "https://animalcrossingprices.com/images/bug-menu-icon/Ins51.png"
+    },
+    {
+      "type": "bug",
+      "searchName": "horned elephant",
+      "bells": "8000",
+      "northernMonths": "7-8",
+      "southernMonths": "1-2",
+      "hours": "17-8",
+      "location": "trees",
+      "img": "https://animalcrossingprices.com/images/bug-menu-icon/Ins53.png"
+    },
+    {
+      "type": "bug",
+      "searchName": "horned hercules",
+      "bells": "12000",
+      "northernMonths": "7-8",
+      "southernMonths": "1-2",
+      "hours": "17-8",
+      "location": "trees",
+      "img": "https://animalcrossingprices.com/images/bug-menu-icon/Ins54.png"
+    },
+    {
+      "type": "fish",
+      "searchName": "horse mackerel",
+      "bells": "150",
+      "northernMonths": "-",
+      "southernMonths": "-",
+      "location": "sea",
+      "img": "https://animalcrossingprices.com/images/fish-menu-icon/Fish46.png"
+    },
+    {
+      "type": "sea-creature",
+      "searchName": "horseshoe crab",
+      "bells": "2500",
+      "northernMonths": "7-9",
+      "southernMonths": "1-3",
+      "hours": "21-4",
+      "img": "https://animalcrossingprices.com/images/sea-creature-menu-icon/Kabutogani.png"
+    },
+    {
+      "type": "plant",
+      "searchName": "hyacinth blue orange pink",
+      "bells": "80",
+      "img": "https://animalcrossingprices.com/images/flower-menu-icon/Hyacinth6.png"
+    },
+    {
+      "type": "plant",
+      "searchName": "hyacinth purple",
+      "bells": "240",
+      "img": "https://animalcrossingprices.com/images/flower-menu-icon/Hyacinth5.png"
+    },
+    {
+      "type": "plant",
+      "searchName": "hyacinth red white yellow",
+      "bells": "40",
+      "img": "https://animalcrossingprices.com/images/flower-menu-icon/Hyacinth1.png"
+    },
+    {
+      "type": "plant",
+      "searchName": "hydrangea blue pink",
+      "bells": "140",
+      "northernMonths": "6-7/20",
+      "southernMonths": "12-1/20",
+      "img": "https://animalcrossingprices.com/images/bush-menu-icon/PltHydrangeaBlue.png"
+    },
+    {
+      "type": "material",
+      "searchName": "iron nugget",
+      "bells": "375",
+      "img": "https://animalcrossingprices.com/images/material-menu-icon/OreIron.png"
+    },
+    {
+      "type": "bug",
+      "searchName": "jewel beetle",
+      "bells": "2400",
+      "northernMonths": "4-8",
+      "southernMonths": "10-2",
+      "location": "tree-stumps",
+      "img": "https://animalcrossingprices.com/images/bug-menu-icon/Ins44.png"
+    },
+    {
+      "type": "fish",
+      "searchName": "killifish",
+      "bells": "300",
+      "northernMonths": "4-8",
+      "southernMonths": "10-2",
+      "location": "pond",
+      "img": "https://animalcrossingprices.com/images/fish-menu-icon/Fish9.png"
+    },
+    {
+      "type": "fish",
+      "searchName": "king salmon",
+      "bells": "1800",
+      "northernMonths": "9",
+      "southernMonths": "3",
+      "location": "river-mouth",
+      "img": "https://animalcrossingprices.com/images/fish-menu-icon/Fish28.png"
+    },
+    {
+      "type": "fish",
+      "searchName": "koi",
+      "bells": "4000",
+      "northernMonths": "-",
+      "southernMonths": "-",
+      "hours": "16-9",
+      "location": "pond",
+      "img": "https://animalcrossingprices.com/images/fish-menu-icon/Fish6.png"
+    },
+    {
+      "type": "bug",
+      "searchName": "ladybug",
+      "bells": "200",
+      "northernMonths": "3-6,10",
+      "southernMonths": "9-12,4",
+      "hours": "8-17",
+      "location": "flowers",
+      "img": "https://animalcrossingprices.com/images/bug-menu-icon/Ins37.png"
+    },
+    {
+      "type": "material",
+      "searchName": "large snowflake",
+      "bells": "2500",
+      "northernMonths": "12/11-2/24",
+      "southernMonths": "6/11-8/24",
+      "img": "https://animalcrossingprices.com/images/material-menu-icon/SnowCrystalLarge.png"
+    },
+    {
+      "type": "material",
+      "searchName": "large star fragment",
+      "bells": "2500",
+      "img": "https://animalcrossingprices.com/images/material-menu-icon/StarPieceRare.png"
+    },
+    {
+      "type": "material",
+      "searchName": "leo fragment",
+      "bells": "500",
+      "northernMonths": "7/23-8/22",
+      "southernMonths": "7/23-8/22",
+      "img": "https://animalcrossingprices.com/images/material-menu-icon/StarpieceLeo.png"
+    },
+    {
+      "type": "material",
+      "searchName": "libra fragment",
+      "bells": "500",
+      "northernMonths": "9/23-10/23",
+      "southernMonths": "9/23-10/23",
+      "img": "https://animalcrossingprices.com/images/material-menu-icon/StarpieceLibra.png"
+    },
+    {
+      "type": "plant",
+      "searchName": "lily black orange pink",
+      "bells": "80",
+      "img": "https://animalcrossingprices.com/images/flower-menu-icon/Yuri5.png"
+    },
+    {
+      "type": "plant",
+      "searchName": "lily red white yellow",
+      "bells": "40",
+      "img": "https://animalcrossingprices.com/images/flower-menu-icon/Yuri2.png"
+    },
+    {
+      "type": "plant",
+      "searchName": "lily of the valley",
+      "bells": "222",
+      "img": "https://animalcrossingprices.com/images/flower-menu-icon/PltSuzuran.png"
+    },
+    {
+      "type": "fish",
+      "searchName": "loach",
+      "bells": "400",
+      "northernMonths": "3-5",
+      "southernMonths": "9-11",
+      "location": "river",
+      "img": "https://animalcrossingprices.com/images/fish-menu-icon/Fish13.png"
+    },
+    {
+      "type": "sea-creature",
+      "searchName": "lobster",
+      "bells": "4500",
+      "northernMonths": "4-6,12-1",
+      "southernMonths": "10-12,6-7",
+      "img": "https://animalcrossingprices.com/images/sea-creature-menu-icon/Fish54.png"
+    },
+    {
+      "type": "material",
+      "searchName": "lollipop",
+      "bells": "120",
+      "northernMonths": "10/31",
+      "southernMonths": "10/31",
+      "img": "https://animalcrossingprices.com/images/material-menu-icon/Lollipop.png"
+    },
+    {
+      "type": "bug",
+      "searchName": "long locust",
+      "bells": "200",
+      "northernMonths": "4-11",
+      "southernMonths": "10-5",
+      "hours": "8-19",
+      "location": "ground",
+      "img": "https://animalcrossingprices.com/images/bug-menu-icon/Ins13.png"
+    },
+    {
+      "type": "bug",
+      "searchName": "madagascan sunset moth",
+      "bells": "2500",
+      "northernMonths": "4-9",
+      "southernMonths": "10-3",
+      "hours": "8-16",
+      "location": "flying",
+      "img": "https://animalcrossingprices.com/images/bug-menu-icon/Ins79.png"
+    },
+    {
+      "type": "fish",
+      "searchName": "mahi mahi",
+      "bells": "6000",
+      "northernMonths": "5-10",
+      "southernMonths": "11-4",
+      "location": "pier",
+      "img": "https://animalcrossingprices.com/images/fish-menu-icon/Fish82.png"
+    },
+    {
+      "type": "bug",
+      "searchName": "man faced stink bug",
+      "bells": "1000",
+      "northernMonths": "3-11",
+      "southernMonths": "9-5",
+      "hours": "19-8",
+      "location": "flowers",
+      "img": "https://animalcrossingprices.com/images/bug-menu-icon/Ins78.png"
+    },
+    {
+      "type": "material",
+      "searchName": "manila clam",
+      "bells": "100",
+      "img": "https://animalcrossingprices.com/images/material-menu-icon/ShellFishAsari.png"
+    },
+    {
+      "type": "bug",
+      "searchName": "mantis",
+      "bells": "430",
+      "northernMonths": "3-11",
+      "southernMonths": "9-5",
+      "hours": "8-17",
+      "location": "flowers",
+      "img": "https://animalcrossingprices.com/images/bug-menu-icon/Ins15.png"
+    },
+    {
+      "type": "sea-creature",
+      "searchName": "mantis shrimp",
+      "bells": "2500",
+      "northernMonths": "-",
+      "southernMonths": "-",
+      "hours": "16-9",
+      "img": "https://animalcrossingprices.com/images/sea-creature-menu-icon/Shako.png"
+    },
+    {
+      "type": "material",
+      "searchName": "maple leaf",
+      "bells": "200",
+      "northernMonths": "11/16-11/25",
+      "southernMonths": "5/16-5/25",
+      "img": "https://animalcrossingprices.com/images/material-menu-icon/AutumnLeaf.png"
+    },
+    {
+      "type": "bug",
+      "searchName": "migratory locust",
+      "bells": "600",
+      "northernMonths": "8-11",
+      "southernMonths": "2-5",
+      "hours": "8-19",
+      "location": "ground",
+      "img": "https://animalcrossingprices.com/images/bug-menu-icon/Ins14.png"
+    },
+    {
+      "type": "fish",
+      "searchName": "mitten crab",
+      "bells": "2000",
+      "northernMonths": "9-11",
+      "southernMonths": "3-5",
+      "hours": "16-9",
+      "location": "river",
+      "img": "https://animalcrossingprices.com/images/fish-menu-icon/Fish66.png"
+    },
+    {
+      "type": "bug",
+      "searchName": "miyama stag",
+      "bells": "1000",
+      "northernMonths": "7-8",
+      "southernMonths": "1-2",
+      "location": "trees",
+      "img": "https://animalcrossingprices.com/images/bug-menu-icon/Ins45.png"
+    },
+    {
+      "type": "bug",
+      "searchName": "mole cricket",
+      "bells": "500",
+      "northernMonths": "11-5",
+      "southernMonths": "5-11",
+      "location": "underground",
+      "img": "https://animalcrossingprices.com/images/bug-menu-icon/Ins33.png"
+    },
+    {
+      "type": "bug",
+      "searchName": "monarch butterfly",
+      "bells": "140",
+      "northernMonths": "9-11",
+      "southernMonths": "3-5",
+      "hours": "4-17",
+      "location": "flying",
+      "img": "https://animalcrossingprices.com/images/bug-menu-icon/Ins4.png"
+    },
+    {
+      "type": "plant",
+      "searchName": "money tree",
+      "bells": "240",
+      "img": "https://animalcrossingprices.com/images/tree-menu-icon/PltMoney.png"
+    },
+    {
+      "type": "sea-creature",
+      "searchName": "moon jellyfish",
+      "bells": "600",
+      "northernMonths": "7-9",
+      "southernMonths": "1-3",
+      "img": "https://animalcrossingprices.com/images/sea-creature-menu-icon/Mizukurage.png"
+    },
+    {
+      "type": "fish",
+      "searchName": "moray eel",
+      "bells": "2000",
+      "northernMonths": "8-10",
+      "southernMonths": "2-4",
+      "location": "sea",
+      "img": "https://animalcrossingprices.com/images/fish-menu-icon/Fish55.png"
+    },
+    {
+      "type": "bug",
+      "searchName": "mosquito",
+      "bells": "130",
+      "northernMonths": "6-9",
+      "southernMonths": "12-3",
+      "hours": "17-4",
+      "location": "flying",
+      "img": "https://animalcrossingprices.com/images/bug-menu-icon/Ins58.png"
+    },
+    {
+      "type": "bug",
+      "searchName": "moth",
+      "bells": "130",
+      "northernMonths": "-",
+      "southernMonths": "-",
+      "hours": "19-4",
+      "location": "flying-light",
+      "img": "https://animalcrossingprices.com/images/bug-menu-icon/Ins9.png"
+    },
+    {
+      "type": "plant",
+      "searchName": "mums green",
+      "bells": "240",
+      "img": "https://animalcrossingprices.com/images/flower-menu-icon/Mum4.png"
+    },
+    {
+      "type": "plant",
+      "searchName": "mums pink purple",
+      "bells": "80",
+      "img": "https://animalcrossingprices.com/images/flower-menu-icon/Mum3.png"
+    },
+    {
+      "type": "plant",
+      "searchName": "mums red white yellow",
+      "bells": "40",
+      "img": "https://animalcrossingprices.com/images/flower-menu-icon/Mum0.png"
+    },
+    {
+      "type": "sea-creature",
+      "searchName": "mussel",
+      "bells": "1500",
+      "northernMonths": "6-12",
+      "southernMonths": "12-6",
+      "img": "https://animalcrossingprices.com/images/sea-creature-menu-icon/Muhrugai.png"
+    },
+    {
+      "type": "fish",
+      "searchName": "napoleonfish",
+      "bells": "10000",
+      "northernMonths": "7-8",
+      "southernMonths": "1-2",
+      "hours": "4-21",
+      "location": "sea",
+      "img": "https://animalcrossingprices.com/images/fish-menu-icon/Fish43.png"
+    },
+    {
+      "type": "fish",
+      "searchName": "neon tetra",
+      "bells": "500",
+      "northernMonths": "4-11",
+      "southernMonths": "10-5",
+      "hours": "9-16",
+      "location": "river",
+      "img": "https://animalcrossingprices.com/images/fish-menu-icon/Fish31.png"
+    },
+    {
+      "type": "fish",
+      "searchName": "nibble fish",
+      "bells": "1500",
+      "northernMonths": "5-9",
+      "southernMonths": "11-3",
+      "hours": "9-16",
+      "location": "river",
+      "img": "https://animalcrossingprices.com/images/fish-menu-icon/Fish67.png"
+    },
+    {
+      "type": "fish",
+      "searchName": "oarfish",
+      "bells": "9000",
+      "northernMonths": "12-5",
+      "southernMonths": "6-11",
+      "location": "sea",
+      "img": "https://animalcrossingprices.com/images/fish-menu-icon/Fish69.png"
+    },
+    {
+      "type": "fish",
+      "searchName": "ocean sunfish",
+      "bells": "4000",
+      "northernMonths": "7-9",
+      "southernMonths": "1-3",
+      "hours": "4-21",
+      "location": "sea",
+      "img": "https://animalcrossingprices.com/images/fish-menu-icon/Fish60.png"
+    },
+    {
+      "type": "sea-creature",
+      "searchName": "octopus",
+      "bells": "1200",
+      "northernMonths": "-",
+      "southernMonths": "-",
+      "img": "https://animalcrossingprices.com/images/sea-creature-menu-icon/Tako.png"
+    },
+    {
+      "type": "material",
+      "searchName": "old tire",
+      "bells": "10",
+      "img": "https://animalcrossingprices.com/images/material-menu-icon/Tire.png"
+    },
+    {
+      "type": "fish",
+      "searchName": "olive flounder",
+      "bells": "800",
+      "northernMonths": "-",
+      "southernMonths": "-",
+      "location": "sea",
+      "img": "https://animalcrossingprices.com/images/fish-menu-icon/Fish51.png"
+    },
+    {
+      "type": "plant",
+      "searchName": "orange",
+      "bells": "500",
+      "img": "https://animalcrossingprices.com/images/tree-menu-icon/Orange.png"
+    },
+    {
+      "type": "plant",
+      "searchName": "orange native",
+      "bells": "100",
+      "img": "https://animalcrossingprices.com/images/tree-menu-icon/Orange.png"
+    },
+    {
+      "type": "plant",
+      "searchName": "orange tree",
+      "bells": "300",
+      "img": "https://animalcrossingprices.com/images/tree-menu-icon/PltOrange.png"
+    },
+    {
+      "type": "bug",
+      "searchName": "orchid mantis",
+      "bells": "2400",
+      "northernMonths": "3-11",
+      "southernMonths": "9-5",
+      "hours": "8-17",
+      "location": "flowers-white",
+      "img": "https://animalcrossingprices.com/images/bug-menu-icon/Ins16.png"
+    },
+    {
+      "type": "material",
+      "searchName": "ornament blue gold red",
+      "bells": "50",
+      "northernMonths": "12/15-1/6",
+      "southernMonths": "12/15-1/6",
+      "img": "https://animalcrossingprices.com/images/material-menu-icon/ChristmasOrnamentA.png"
+    },
+    {
+      "type": "sea-creature",
+      "searchName": "oyster",
+      "bells": "1100",
+      "northernMonths": "9-2",
+      "southernMonths": "3-8",
+      "img": "https://animalcrossingprices.com/images/sea-creature-menu-icon/Kaki.png"
+    },
+    {
+      "type": "fish",
+      "searchName": "pale chub",
+      "bells": "160",
+      "northernMonths": "-",
+      "southernMonths": "-",
+      "hours": "9-16",
+      "location": "river",
+      "img": "https://animalcrossingprices.com/images/fish-menu-icon/Fish1.png"
+    },
+    {
+      "type": "plant",
+      "searchName": "pansy blue orange",
+      "bells": "80",
+      "img": "https://animalcrossingprices.com/images/flower-menu-icon/Pansi4.png"
+    },
+    {
+      "type": "plant",
+      "searchName": "pansy purple",
+      "bells": "240",
+      "img": "https://animalcrossingprices.com/images/flower-menu-icon/Pansi3.png"
+    },
+    {
+      "type": "plant",
+      "searchName": "pansy red white yellow",
+      "bells": "40",
+      "img": "https://animalcrossingprices.com/images/flower-menu-icon/Pansi0.png"
+    },
+    {
+      "type": "bug",
+      "searchName": "paper kite butterfly",
+      "bells": "1000",
+      "northernMonths": "-",
+      "southernMonths": "-",
+      "hours": "8-19",
+      "location": "flying",
+      "img": "https://animalcrossingprices.com/images/bug-menu-icon/Ins73.png"
+    },
+    {
+      "type": "plant",
+      "searchName": "peach",
+      "bells": "500",
+      "img": "https://animalcrossingprices.com/images/tree-menu-icon/Peach.png"
+    },
+    {
+      "type": "plant",
+      "searchName": "peach native",
+      "bells": "100",
+      "img": "https://animalcrossingprices.com/images/tree-menu-icon/Peach.png"
+    },
+    {
+      "type": "plant",
+      "searchName": "peach tree",
+      "bells": "300",
+      "img": "https://animalcrossingprices.com/images/tree-menu-icon/PltPeach.png"
+    },
+    {
+      "type": "bug",
+      "searchName": "peacock butterfly",
+      "bells": "2500",
+      "northernMonths": "3-6",
+      "southernMonths": "9-12",
+      "hours": "4-19",
+      "location": "flying-flowers-hybrid",
+      "img": "https://animalcrossingprices.com/images/bug-menu-icon/Ins3.png"
+    },
+    {
+      "type": "plant",
+      "searchName": "pear",
+      "bells": "500",
+      "img": "https://animalcrossingprices.com/images/tree-menu-icon/Pear.png"
+    },
+    {
+      "type": "plant",
+      "searchName": "pear native",
+      "bells": "100",
+      "img": "https://animalcrossingprices.com/images/tree-menu-icon/Pear.png"
+    },
+    {
+      "type": "plant",
+      "searchName": "pear tree",
+      "bells": "300",
+      "img": "https://animalcrossingprices.com/images/tree-menu-icon/PltPear.png"
+    },
+    {
+      "type": "material",
+      "searchName": "pearl",
+      "bells": "10000",
+      "img": "https://animalcrossingprices.com/images/material-menu-icon/Pearl.png"
+    },
+    {
+      "type": "sea-creature",
+      "searchName": "pearl oyster",
+      "bells": "2800",
+      "northernMonths": "-",
+      "southernMonths": "-",
+      "img": "https://animalcrossingprices.com/images/sea-creature-menu-icon/Akoyagai.png"
+    },
+    {
+      "type": "fish",
+      "searchName": "pike",
+      "bells": "1800",
+      "northernMonths": "9-12",
+      "southernMonths": "3-6",
+      "location": "river",
+      "img": "https://animalcrossingprices.com/images/fish-menu-icon/Fish20.png"
+    },
+    {
+      "type": "bug",
+      "searchName": "pill bug",
+      "bells": "250",
+      "northernMonths": "9-6",
+      "southernMonths": "3-12",
+      "hours": "23-16",
+      "location": "rocks",
+      "img": "https://animalcrossingprices.com/images/bug-menu-icon/Ins57.png"
+    },
+    {
+      "type": "material",
+      "searchName": "pine cone",
+      "bells": "200",
+      "northernMonths": "9-12/10",
+      "southernMonths": "3-6/10",
+      "location": "trees-shaking",
+      "img": "https://animalcrossingprices.com/images/material-menu-icon/DIYPinecone.png"
+    },
+    {
+      "type": "fish",
+      "searchName": "piranha",
+      "bells": "2500",
+      "northernMonths": "6-9",
+      "southernMonths": "12-3",
+      "hours": "9-16,21-4",
+      "location": "river",
+      "img": "https://animalcrossingprices.com/images/fish-menu-icon/Fish32.png"
+    },
+    {
+      "type": "material",
+      "searchName": "pisces fragment",
+      "bells": "500",
+      "northernMonths": "2/19-3/20",
+      "southernMonths": "2/19-3/20",
+      "img": "https://animalcrossingprices.com/images/material-menu-icon/StarpiecePisces.png"
+    },
+    {
+      "type": "plant",
+      "searchName": "plumeria pink white",
+      "bells": "140",
+      "northernMonths": "6-9/20",
+      "southernMonths": "12-3/20",
+      "img": "https://animalcrossingprices.com/images/bush-menu-icon/PltBushPlumeriaPink.png"
+    },
+    {
+      "type": "fish",
+      "searchName": "pond smelt",
+      "bells": "500",
+      "northernMonths": "12-2",
+      "southernMonths": "6-8",
+      "location": "river",
+      "img": "https://animalcrossingprices.com/images/fish-menu-icon/Fish21.png"
+    },
+    {
+      "type": "bug",
+      "searchName": "pondskater",
+      "bells": "130",
+      "northernMonths": "5-9",
+      "southernMonths": "11-3",
+      "hours": "8-19",
+      "location": "freshwater",
+      "img": "https://animalcrossingprices.com/images/bug-menu-icon/Ins27.png"
+    },
+    {
+      "type": "fish",
+      "searchName": "pop eyed goldfish",
+      "bells": "1300",
+      "northernMonths": "-",
+      "southernMonths": "-",
+      "hours": "9-16",
+      "location": "pond",
+      "img": "https://animalcrossingprices.com/images/fish-menu-icon/Fish8.png"
+    },
+    {
+      "type": "plant",
+      "searchName": "potato",
+      "bells": "350",
+      "img": "https://animalcrossingprices.com/images/vegetable-menu-icon/Potato.png"
+    },
+    {
+      "type": "fish",
+      "searchName": "puffer fish",
+      "bells": "250",
+      "northernMonths": "7-9",
+      "southernMonths": "1-3",
+      "location": "sea",
+      "img": "https://animalcrossingprices.com/images/fish-menu-icon/Fish45.png"
+    },
+    {
+      "type": "plant",
+      "searchName": "pumpkin green orange white yellow",
+      "bells": "350",
+      "img": "https://animalcrossingprices.com/images/vegetable-menu-icon/SquashOrange.png"
+    },
+    {
+      "type": "bug",
+      "searchName": "queen alexandras birdwing",
+      "bells": "4000",
+      "northernMonths": "5-9",
+      "southernMonths": "11-3",
+      "hours": "8-16",
+      "location": "flying",
+      "img": "https://animalcrossingprices.com/images/bug-menu-icon/Ins8.png"
+    },
+    {
+      "type": "bug",
+      "searchName": "rainbow stag",
+      "bells": "6000",
+      "northernMonths": "6-9",
+      "southernMonths": "12-3",
+      "hours": "19-8",
+      "location": "trees",
+      "img": "https://animalcrossingprices.com/images/bug-menu-icon/Ins48.png"
+    },
+    {
+      "type": "fish",
+      "searchName": "rainbowfish",
+      "bells": "800",
+      "northernMonths": "5-10",
+      "southernMonths": "11-4",
+      "hours": "9-16",
+      "location": "river",
+      "img": "https://animalcrossingprices.com/images/fish-menu-icon/Fish80.png"
+    },
+    {
+      "type": "bug",
+      "searchName": "raja brookes birdwing",
+      "bells": "2500",
+      "northernMonths": "4-9,12-2",
+      "southernMonths": "10-3,6-8",
+      "hours": "8-17",
+      "location": "flying-freshwater",
+      "img": "https://animalcrossingprices.com/images/bug-menu-icon/Ins7.png"
+    },
+    {
+      "type": "fish",
+      "searchName": "ranchu goldfish",
+      "bells": "4500",
+      "northernMonths": "-",
+      "southernMonths": "-",
+      "hours": "9-16",
+      "location": "pond",
+      "img": "https://animalcrossingprices.com/images/fish-menu-icon/Fish85.png"
+    },
+    {
+      "type": "plant",
+      "searchName": "rare mushroom",
+      "bells": "16000",
+      "northernMonths": "11",
+      "southernMonths": "5",
+      "location": "underground",
+      "img": "https://animalcrossingprices.com/images/mushroom-menu-icon/Mush4.png"
+    },
+    {
+      "type": "fish",
+      "searchName": "ray",
+      "bells": "3000",
+      "northernMonths": "8-11",
+      "southernMonths": "2-5",
+      "hours": "4-21",
+      "location": "sea",
+      "img": "https://animalcrossingprices.com/images/fish-menu-icon/Fish59.png"
+    },
+    {
+      "type": "bug",
+      "searchName": "red dragonfly",
+      "bells": "180",
+      "northernMonths": "9-10",
+      "southernMonths": "3-4",
+      "hours": "8-19",
+      "location": "flying",
+      "img": "https://animalcrossingprices.com/images/bug-menu-icon/Ins22.png"
+    },
+    {
+      "type": "sea-creature",
+      "searchName": "red king crab",
+      "bells": "8000",
+      "northernMonths": "11-3",
+      "southernMonths": "5-9",
+      "img": "https://animalcrossingprices.com/images/sea-creature-menu-icon/Tarabagani.png"
+    },
+    {
+      "type": "fish",
+      "searchName": "red snapper",
+      "bells": "3000",
+      "northernMonths": "-",
+      "southernMonths": "-",
+      "location": "sea",
+      "img": "https://animalcrossingprices.com/images/fish-menu-icon/Fish49.png"
+    },
+    {
+      "type": "fish",
+      "searchName": "ribbon eel",
+      "bells": "600",
+      "northernMonths": "6-10",
+      "southernMonths": "12-4",
+      "location": "sea",
+      "img": "https://animalcrossingprices.com/images/fish-menu-icon/Fish71.png"
+    },
+    {
+      "type": "bug",
+      "searchName": "rice grasshopper",
+      "bells": "160",
+      "northernMonths": "8-11",
+      "southernMonths": "2-5",
+      "hours": "8-19",
+      "location": "ground",
+      "img": "https://animalcrossingprices.com/images/bug-menu-icon/Ins67.png"
+    },
+    {
+      "type": "bug",
+      "searchName": "robust cicada",
+      "bells": "300",
+      "northernMonths": "7-8",
+      "southernMonths": "1-2",
+      "hours": "8-17",
+      "location": "trees",
+      "img": "https://animalcrossingprices.com/images/bug-menu-icon/Ins18.png"
+    },
+    {
+      "type": "bug",
+      "searchName": "rosalia batesi beetle",
+      "bells": "3000",
+      "northernMonths": "5-9",
+      "southernMonths": "11-3",
+      "location": "tree-stumps",
+      "img": "https://animalcrossingprices.com/images/bug-menu-icon/Ins82.png"
+    },
+    {
+      "type": "plant",
+      "searchName": "rose black purple",
+      "bells": "240",
+      "img": "https://animalcrossingprices.com/images/flower-menu-icon/Rose6.png"
+    },
+    {
+      "type": "plant",
+      "searchName": "rose blue gold",
+      "bells": "1000",
+      "img": "https://animalcrossingprices.com/images/flower-menu-icon/GoldenRose.png"
+    },
+    {
+      "type": "plant",
+      "searchName": "rose orange pink",
+      "bells": "80",
+      "img": "https://animalcrossingprices.com/images/flower-menu-icon/Rose4.png"
+    },
+    {
+      "type": "plant",
+      "searchName": "rose red white yellow",
+      "bells": "40",
+      "img": "https://animalcrossingprices.com/images/flower-menu-icon/Rose0.png"
+    },
+    {
+      "type": "plant",
+      "searchName": "round mushroom",
+      "bells": "200",
+      "northernMonths": "11",
+      "southernMonths": "5",
+      "location": "ground",
+      "img": "https://animalcrossingprices.com/images/mushroom-menu-icon/Mush1.png"
+    },
+    {
+      "type": "fish",
+      "searchName": "saddled bichir",
+      "bells": "4000",
+      "northernMonths": "6-9",
+      "southernMonths": "12-3",
+      "hours": "21-4",
+      "location": "river",
+      "img": "https://animalcrossingprices.com/images/fish-menu-icon/Fish68.png"
+    },
+    {
+      "type": "material",
+      "searchName": "sagittarius fragment",
+      "bells": "500",
+      "northernMonths": "11/23-12/21",
+      "southernMonths": "11/23-12/21",
+      "img": "https://animalcrossingprices.com/images/material-menu-icon/StarpieceSagittarius.png"
+    },
+    {
+      "type": "fish",
+      "searchName": "salmon",
+      "bells": "700",
+      "northernMonths": "9",
+      "southernMonths": "3",
+      "location": "river-mouth",
+      "img": "https://animalcrossingprices.com/images/fish-menu-icon/Fish27.png"
+    },
+    {
+      "type": "shell",
+      "searchName": "sand dollar",
+      "bells": "120",
+      "img": "https://animalcrossingprices.com/images/shell-menu-icon/Shell8.png"
+    },
+    {
+      "type": "fish",
+      "searchName": "saw shark",
+      "bells": "12000",
+      "northernMonths": "6-9",
+      "southernMonths": "12-3",
+      "hours": "16-9",
+      "location": "sea",
+      "img": "https://animalcrossingprices.com/images/fish-menu-icon/Fish74.png"
+    },
+    {
+      "type": "bug",
+      "searchName": "saw stag",
+      "bells": "2000",
+      "northernMonths": "7-8",
+      "southernMonths": "1-2",
+      "location": "trees",
+      "img": "https://animalcrossingprices.com/images/bug-menu-icon/Ins46.png"
+    },
+    {
+      "type": "sea-creature",
+      "searchName": "scallop",
+      "bells": "1000",
+      "northernMonths": "-",
+      "southernMonths": "-",
+      "img": "https://animalcrossingprices.com/images/sea-creature-menu-icon/Hotate.png"
+    },
+    {
+      "type": "bug",
+      "searchName": "scarab beetle",
+      "bells": "10000",
+      "northernMonths": "7-8",
+      "southernMonths": "1-2",
+      "hours": "23-8",
+      "location": "trees",
+      "img": "https://animalcrossingprices.com/images/bug-menu-icon/Ins43.png"
+    },
+    {
+      "type": "material",
+      "searchName": "scorpio fragment",
+      "bells": "500",
+      "northernMonths": "10/24-11/22",
+      "southernMonths": "10/24-11/22",
+      "img": "https://animalcrossingprices.com/images/material-menu-icon/StarpieceScorpio.png"
+    },
+    {
+      "type": "bug",
+      "searchName": "scorpion",
+      "bells": "8000",
+      "northernMonths": "5-10",
+      "southernMonths": "11-4",
+      "hours": "19-4",
+      "location": "ground",
+      "img": "https://animalcrossingprices.com/images/bug-menu-icon/Ins63.png"
+    },
+    {
+      "type": "sea-creature",
+      "searchName": "sea anemone",
+      "bells": "500",
+      "northernMonths": "-",
+      "southernMonths": "-",
+      "img": "https://animalcrossingprices.com/images/sea-creature-menu-icon/Isogintyaku.png"
+    },
+    {
+      "type": "fish",
+      "searchName": "sea bass",
+      "bells": "400",
+      "northernMonths": "-",
+      "southernMonths": "-",
+      "location": "sea",
+      "img": "https://animalcrossingprices.com/images/fish-menu-icon/Fish48.png"
+    },
+    {
+      "type": "fish",
+      "searchName": "sea butterfly",
+      "bells": "1000",
+      "northernMonths": "12-3",
+      "southernMonths": "6-9",
+      "location": "sea",
+      "img": "https://animalcrossingprices.com/images/fish-menu-icon/Fish37.png"
+    },
+    {
+      "type": "sea-creature",
+      "searchName": "sea cucumber",
+      "bells": "500",
+      "northernMonths": "11-4",
+      "southernMonths": "5-10",
+      "img": "https://animalcrossingprices.com/images/sea-creature-menu-icon/Namako.png"
+    },
+    {
+      "type": "sea-creature",
+      "searchName": "sea grapes",
+      "bells": "900",
+      "northernMonths": "6-9",
+      "southernMonths": "12-3",
+      "img": "https://animalcrossingprices.com/images/sea-creature-menu-icon/Umibudou.png"
+    },
+    {
+      "type": "fish",
+      "searchName": "sea horse",
+      "bells": "1100",
+      "northernMonths": "4-11",
+      "southernMonths": "10-5",
+      "location": "sea",
+      "img": "https://animalcrossingprices.com/images/fish-menu-icon/Fish39.png"
+    },
+    {
+      "type": "sea-creature",
+      "searchName": "sea pig",
+      "bells": "10000",
+      "northernMonths": "11-2",
+      "southernMonths": "5-8",
+      "hours": "16-9",
+      "img": "https://animalcrossingprices.com/images/sea-creature-menu-icon/Senjunamako.png"
+    },
+    {
+      "type": "sea-creature",
+      "searchName": "sea pineapple",
+      "bells": "1500",
+      "northernMonths": "4-8",
+      "southernMonths": "10-2",
+      "img": "https://animalcrossingprices.com/images/sea-creature-menu-icon/Hoya.png"
+    },
+    {
+      "type": "sea-creature",
+      "searchName": "sea slug",
+      "bells": "600",
+      "northernMonths": "-",
+      "southernMonths": "-",
+      "img": "https://animalcrossingprices.com/images/sea-creature-menu-icon/Umiushi.png"
+    },
+    {
+      "type": "shell",
+      "searchName": "sea snail",
+      "bells": "180",
+      "img": "https://animalcrossingprices.com/images/shell-menu-icon/Shell6.png"
+    },
+    {
+      "type": "sea-creature",
+      "searchName": "sea star",
+      "bells": "500",
+      "northernMonths": "-",
+      "southernMonths": "-",
+      "img": "https://animalcrossingprices.com/images/sea-creature-menu-icon/Hitode.png"
+    },
+    {
+      "type": "sea-creature",
+      "searchName": "sea urchin",
+      "bells": "1700",
+      "northernMonths": "5-9",
+      "southernMonths": "11-3",
+      "img": "https://animalcrossingprices.com/images/sea-creature-menu-icon/Uni.png"
+    },
+    {
+      "type": "sea-creature",
+      "searchName": "seaweed",
+      "bells": "600",
+      "northernMonths": "10-7",
+      "southernMonths": "4-1",
+      "img": "https://animalcrossingprices.com/images/sea-creature-menu-icon/Wakame.png"
+    },
+    {
+      "type": "plant",
+      "searchName": "skinny mushroom",
+      "bells": "300",
+      "northernMonths": "11",
+      "southernMonths": "5",
+      "location": "ground",
+      "img": "https://animalcrossingprices.com/images/mushroom-menu-icon/Mush2.png"
+    },
+    {
+      "type": "sea-creature",
+      "searchName": "slate pencil urchin",
+      "bells": "2000",
+      "northernMonths": "5-9",
+      "southernMonths": "11-3",
+      "hours": "16-9",
+      "img": "https://animalcrossingprices.com/images/sea-creature-menu-icon/Paipuuni.png"
+    },
+    {
+      "type": "bug",
+      "searchName": "snail",
+      "bells": "250",
+      "northernMonths": "-",
+      "southernMonths": "-",
+      "location": "rocks-rain",
+      "img": "https://animalcrossingprices.com/images/bug-menu-icon/Ins29.png"
+    },
+    {
+      "type": "fish",
+      "searchName": "snapping turtle",
+      "bells": "5000",
+      "northernMonths": "4-10",
+      "southernMonths": "10-4",
+      "hours": "21-4",
+      "location": "river",
+      "img": "https://animalcrossingprices.com/images/fish-menu-icon/Fish78.png"
+    },
+    {
+      "type": "sea-creature",
+      "searchName": "snow crab",
+      "bells": "6000",
+      "northernMonths": "11-4",
+      "southernMonths": "5-10",
+      "img": "https://animalcrossingprices.com/images/sea-creature-menu-icon/Zuwaigani.png"
+    },
+    {
+      "type": "material",
+      "searchName": "snowflake",
+      "bells": "500",
+      "northernMonths": "12/11-2/24",
+      "southernMonths": "6/11-8/24",
+      "img": "https://animalcrossingprices.com/images/material-menu-icon/SnowCrystal.png"
+    },
+    {
+      "type": "material",
+      "searchName": "soft wood",
+      "bells": "60",
+      "img": "https://animalcrossingprices.com/images/material-menu-icon/DIYWoodSoft.png"
+    },
+    {
+      "type": "fish",
+      "searchName": "soft shelled turtle",
+      "bells": "3750",
+      "northernMonths": "8-9",
+      "southernMonths": "2-3",
+      "hours": "16-9",
+      "location": "river",
+      "img": "https://animalcrossingprices.com/images/fish-menu-icon/Fish65.png"
+    },
+    {
+      "type": "bug",
+      "searchName": "spider",
+      "bells": "480",
+      "northernMonths": "-",
+      "southernMonths": "-",
+      "hours": "19-8",
+      "location": "trees-shaking",
+      "img": "https://animalcrossingprices.com/images/bug-menu-icon/Ins61.png"
+    },
+    {
+      "type": "sea-creature",
+      "searchName": "spider crab",
+      "bells": "10000",
+      "northernMonths": "3-4",
+      "southernMonths": "9-10",
+      "img": "https://animalcrossingprices.com/images/sea-creature-menu-icon/Takaashigani.png"
+    },
+    {
+      "type": "sea-creature",
+      "searchName": "spiny lobster",
+      "bells": "5000",
+      "northernMonths": "10-12",
+      "southernMonths": "4-6",
+      "hours": "21-4",
+      "img": "https://animalcrossingprices.com/images/sea-creature-menu-icon/Iseebi.png"
+    },
+    {
+      "type": "sea-creature",
+      "searchName": "spotted garden eel",
+      "bells": "1100",
+      "northernMonths": "5-10",
+      "southernMonths": "11-4",
+      "hours": "4-21",
+      "img": "https://animalcrossingprices.com/images/sea-creature-menu-icon/Chinanago.png"
+    },
+    {
+      "type": "fish",
+      "searchName": "squid",
+      "bells": "500",
+      "northernMonths": "12-8",
+      "southernMonths": "6-2",
+      "location": "sea",
+      "img": "https://animalcrossingprices.com/images/fish-menu-icon/Fish52.png"
+    },
+    {
+      "type": "material",
+      "searchName": "star fragment",
+      "bells": "250",
+      "img": "https://animalcrossingprices.com/images/material-menu-icon/StarPiece.png"
+    },
+    {
+      "type": "bug",
+      "searchName": "stinkbug",
+      "bells": "120",
+      "northernMonths": "3-11",
+      "southernMonths": "9-5",
+      "location": "flowers",
+      "img": "https://animalcrossingprices.com/images/bug-menu-icon/Ins64.png"
+    },
+    {
+      "type": "material",
+      "searchName": "stone",
+      "bells": "75",
+      "img": "https://animalcrossingprices.com/images/material-menu-icon/OreStone.png"
+    },
+    {
+      "type": "fish",
+      "searchName": "stringfish",
+      "bells": "15000",
+      "northernMonths": "12-3",
+      "southernMonths": "6-9",
+      "hours": "16-9",
+      "location": "river-clifftop",
+      "img": "https://animalcrossingprices.com/images/fish-menu-icon/Fish26.png"
+    },
+    {
+      "type": "fish",
+      "searchName": "sturgeon",
+      "bells": "10000",
+      "northernMonths": "9-3",
+      "southernMonths": "3-9",
+      "location": "river-mouth",
+      "img": "https://animalcrossingprices.com/images/fish-menu-icon/Fish75.png"
+    },
+    {
+      "type": "fish",
+      "searchName": "suckerfish",
+      "bells": "1500",
+      "northernMonths": "6-9",
+      "southernMonths": "12-3",
+      "location": "sea",
+      "img": "https://animalcrossingprices.com/images/fish-menu-icon/Fish83.png"
+    },
+    {
+      "type": "plant",
+      "searchName": "sugar cane",
+      "bells": "350",
+      "img": "https://animalcrossingprices.com/images/vegetable-menu-icon/SugarCane.png"
+    },
+    {
+      "type": "shell",
+      "searchName": "summer shell",
+      "bells": "600",
+      "northernMonths": "6-8",
+      "southernMonths": "12-2",
+      "img": "https://animalcrossingprices.com/images/shell-menu-icon/ShellSummer.png"
+    },
+    {
+      "type": "fish",
+      "searchName": "surgeonfish",
+      "bells": "1000",
+      "northernMonths": "4-9",
+      "southernMonths": "10-3",
+      "location": "sea",
+      "img": "https://animalcrossingprices.com/images/fish-menu-icon/Fish41.png"
+    },
+    {
+      "type": "sea-creature",
+      "searchName": "sweet shrimp",
+      "bells": "1400",
+      "northernMonths": "9-2",
+      "southernMonths": "3-8",
+      "hours": "16-9",
+      "img": "https://animalcrossingprices.com/images/sea-creature-menu-icon/Amaebi.png"
+    },
+    {
+      "type": "fish",
+      "searchName": "sweetfish",
+      "bells": "900",
+      "northernMonths": "7-9",
+      "southernMonths": "1-3",
+      "location": "river",
+      "img": "https://animalcrossingprices.com/images/fish-menu-icon/Fish22.png"
+    },
+    {
+      "type": "fish",
+      "searchName": "tadpole",
+      "bells": "100",
+      "northernMonths": "3-7",
+      "southernMonths": "9-1",
+      "location": "pond",
+      "img": "https://animalcrossingprices.com/images/fish-menu-icon/Fish64.png"
+    },
+    {
+      "type": "bug",
+      "searchName": "tarantula",
+      "bells": "8000",
+      "northernMonths": "11-4",
+      "southernMonths": "5-10",
+      "hours": "19-4",
+      "location": "ground",
+      "img": "https://animalcrossingprices.com/images/bug-menu-icon/Ins62.png"
+    },
+    {
+      "type": "material",
+      "searchName": "taurus fragment",
+      "bells": "500",
+      "northernMonths": "4/20-5/20",
+      "southernMonths": "4/20-5/20",
+      "img": "https://animalcrossingprices.com/images/material-menu-icon/StarpieceTaurus.png"
+    },
+    {
+      "type": "plant",
+      "searchName": "tea olive orange yellow",
+      "bells": "140",
+      "northernMonths": "9/21-10",
+      "southernMonths": "3/21-4",
+      "img": "https://animalcrossingprices.com/images/bush-menu-icon/PltBushOsmathusOrange.png"
+    },
+    {
+      "type": "bug",
+      "searchName": "tiger beetle",
+      "bells": "1500",
+      "northernMonths": "2-11",
+      "southernMonths": "8-5",
+      "location": "ground",
+      "img": "https://animalcrossingprices.com/images/bug-menu-icon/Ins70.png"
+    },
+    {
+      "type": "bug",
+      "searchName": "tiger butterfly",
+      "bells": "240",
+      "northernMonths": "3-9",
+      "southernMonths": "9-3",
+      "hours": "4-19",
+      "location": "flying",
+      "img": "https://animalcrossingprices.com/images/bug-menu-icon/Ins2.png"
+    },
+    {
+      "type": "sea-creature",
+      "searchName": "tiger prawn",
+      "bells": "3000",
+      "northernMonths": "6-9",
+      "southernMonths": "12-3",
+      "hours": "16-9",
+      "img": "https://animalcrossingprices.com/images/sea-creature-menu-icon/Kurumaebi.png"
+    },
+    {
+      "type": "fish",
+      "searchName": "tilapia",
+      "bells": "800",
+      "northernMonths": "6-10",
+      "southernMonths": "12-4",
+      "location": "river",
+      "img": "https://animalcrossingprices.com/images/fish-menu-icon/Fish76.png"
+    },
+    {
+      "type": "plant",
+      "searchName": "tomato",
+      "bells": "350",
+      "img": "https://animalcrossingprices.com/images/vegetable-menu-icon/Tomato.png"
+    },
+    {
+      "type": "material",
+      "searchName": "tree branch",
+      "bells": "5",
+      "img": "https://animalcrossingprices.com/images/material-menu-icon/DIYBranch.png"
+    },
+    {
+      "type": "plant",
+      "searchName": "tulip black pink",
+      "bells": "80",
+      "img": "https://animalcrossingprices.com/images/flower-menu-icon/Turip3.png"
+    },
+    {
+      "type": "plant",
+      "searchName": "tulip purple",
+      "bells": "240",
+      "img": "https://animalcrossingprices.com/images/flower-menu-icon/Turip4.png"
+    },
+    {
+      "type": "plant",
+      "searchName": "tulip red white yellow",
+      "bells": "40",
+      "img": "https://animalcrossingprices.com/images/flower-menu-icon/Turip2.png"
+    },
+    {
+      "type": "fish",
+      "searchName": "tuna",
+      "bells": "7000",
+      "northernMonths": "11-4",
+      "southernMonths": "5-10",
+      "location": "pier",
+      "img": "https://animalcrossingprices.com/images/fish-menu-icon/Fish57.png"
+    },
+    {
+      "type": "sea-creature",
+      "searchName": "turban shell",
+      "bells": "1000",
+      "northernMonths": "3-5,9-12",
+      "southernMonths": "9-11,3-6",
+      "img": "https://animalcrossingprices.com/images/sea-creature-menu-icon/Sazae.png"
+    },
+    {
+      "type": "sea-creature",
+      "searchName": "umbrella octopus",
+      "bells": "6000",
+      "northernMonths": "3-5,9-11",
+      "southernMonths": "9-11,3-5",
+      "img": "https://animalcrossingprices.com/images/sea-creature-menu-icon/Mendako.png"
+    },
+    {
+      "type": "sea-creature",
+      "searchName": "vampire squid",
+      "bells": "10000",
+      "northernMonths": "5-8",
+      "southernMonths": "11-2",
+      "hours": "16-9",
+      "img": "https://animalcrossingprices.com/images/sea-creature-menu-icon/Koumoridako.png"
+    },
+    {
+      "type": "shell",
+      "searchName": "venus comb",
+      "bells": "300",
+      "img": "https://animalcrossingprices.com/images/shell-menu-icon/Shell4.png"
+    },
+    {
+      "type": "sea-creature",
+      "searchName": "venus flower basket",
+      "bells": "5000",
+      "northernMonths": "10-2",
+      "southernMonths": "4-8",
+      "img": "https://animalcrossingprices.com/images/sea-creature-menu-icon/Kairoudouketsu.png"
+    },
+    {
+      "type": "plant",
+      "searchName": "vine",
+      "bells": "50",
+      "img": "https://animalcrossingprices.com/images/material-menu-icon/PltVine.png"
+    },
+    {
+      "type": "bug",
+      "searchName": "violin beetle",
+      "bells": "450",
+      "northernMonths": "5-6,9-11",
+      "southernMonths": "11-12,3-5",
+      "location": "tree-stumps",
+      "img": "https://animalcrossingprices.com/images/bug-menu-icon/Ins38.png"
+    },
+    {
+      "type": "material",
+      "searchName": "virgo fragment",
+      "bells": "500",
+      "northernMonths": "8/23-9/22",
+      "southernMonths": "8/23-9/22",
+      "img": "https://animalcrossingprices.com/images/material-menu-icon/StarpieceVirgo.png"
+    },
+    {
+      "type": "bug",
+      "searchName": "walker cicada",
+      "bells": "400",
+      "northernMonths": "8-9",
+      "southernMonths": "2-3",
+      "hours": "8-17",
+      "location": "trees",
+      "img": "https://animalcrossingprices.com/images/bug-menu-icon/Ins19.png"
+    },
+    {
+      "type": "bug",
+      "searchName": "walking leaf",
+      "bells": "600",
+      "northernMonths": "7-9",
+      "southernMonths": "1-3",
+      "location": "trees",
+      "img": "https://animalcrossingprices.com/images/bug-menu-icon/Ins34.png"
+    },
+    {
+      "type": "bug",
+      "searchName": "walking stick",
+      "bells": "600",
+      "northernMonths": "7-11",
+      "southernMonths": "1-5",
+      "hours": "4-8,17-19",
+      "location": "trees",
+      "img": "https://animalcrossingprices.com/images/bug-menu-icon/Ins35.png"
+    },
+    {
+      "type": "bug",
+      "searchName": "wasp",
+      "bells": "2500",
+      "northernMonths": "-",
+      "southernMonths": "-",
+      "location": "trees-shaking",
+      "img": "https://animalcrossingprices.com/images/bug-menu-icon/Ins12.png"
+    },
+    {
+      "type": "material",
+      "searchName": "wasp nest",
+      "bells": "300",
+      "img": "https://animalcrossingprices.com/images/material-menu-icon/Honeycomb.png"
+    },
+    {
+      "type": "fish",
+      "searchName": "whale shark",
+      "bells": "13000",
+      "northernMonths": "6-9",
+      "southernMonths": "12-3",
+      "location": "sea",
+      "img": "https://animalcrossingprices.com/images/fish-menu-icon/Fish72.png"
+    },
+    {
+      "type": "bug",
+      "searchName": "wharf roach",
+      "bells": "200",
+      "northernMonths": "-",
+      "southernMonths": "-",
+      "location": "beach-rocks",
+      "img": "https://animalcrossingprices.com/images/bug-menu-icon/Ins71.png"
+    },
+    {
+      "type": "plant",
+      "searchName": "wheat",
+      "bells": "350",
+      "img": "https://animalcrossingprices.com/images/vegetable-menu-icon/Wheat.png"
+    },
+    {
+      "type": "sea-creature",
+      "searchName": "whelk",
+      "bells": "1000",
+      "northernMonths": "-",
+      "southernMonths": "-",
+      "img": "https://animalcrossingprices.com/images/sea-creature-menu-icon/Baigai.png"
+    },
+    {
+      "type": "plant",
+      "searchName": "windflower blue orange pink",
+      "bells": "80",
+      "img": "https://animalcrossingprices.com/images/flower-menu-icon/Anemone2.png"
+    },
+    {
+      "type": "plant",
+      "searchName": "windflower purple",
+      "bells": "80",
+      "img": "https://animalcrossingprices.com/images/flower-menu-icon/Anemone4.png"
+    },
+    {
+      "type": "plant",
+      "searchName": "windflower red white",
+      "bells": "40",
+      "img": "https://animalcrossingprices.com/images/flower-menu-icon/Anemone1.png"
+    },
+    {
+      "type": "material",
+      "searchName": "wood",
+      "bells": "60",
+      "img": "https://animalcrossingprices.com/images/material-menu-icon/DIYWoodNormal.png"
+    },
+    {
+      "type": "bug",
+      "searchName": "yellow butterfly",
+      "bells": "160",
+      "northernMonths": "3-6,9-10",
+      "southernMonths": "9-12,3-4",
+      "hours": "4-19",
+      "location": "flying",
+      "img": "https://animalcrossingprices.com/images/bug-menu-icon/Ins1.png"
+    },
+    {
+      "type": "fish",
+      "searchName": "yellow perch",
+      "bells": "300",
+      "northernMonths": "10-3",
+      "southernMonths": "4-9",
+      "location": "river",
+      "img": "https://animalcrossingprices.com/images/fish-menu-icon/Fish18.png"
+    },
+    {
+      "type": "material",
+      "searchName": "young spring bamboo",
+      "bells": "200",
+      "northernMonths": "2/25-5",
+      "southernMonths": "8/25-11",
+      "img": "https://animalcrossingprices.com/images/material-menu-icon/DIYBambooSpring.png"
+    },
+    {
+      "type": "fish",
+      "searchName": "zebra turkeyfish",
+      "bells": "500",
+      "northernMonths": "4-11",
+      "southernMonths": "10-5",
+      "location": "sea",
+      "img": "https://animalcrossingprices.com/images/fish-menu-icon/Fish44.png"
+    }
+  ],
+  "emojis": {
+    "locations": {
+      "trees-shaking": "",
+      "flying": "",
+      "sea": "",
+      "river": "",
+      "rotten-food": "",
+      "trees": "",
+      "ground": "",
+      "pier": "",
+      "trees-palm": "",
+      "pond": "",
+      "rocks": "",
+      "river-clifftop": "",
+      "tree-stumps": "",
+      "sea-rain": "",
+      "freshwater": "",
+      "snowballs": "",
+      "villagers": "",
+      "trash": "",
+      "beach": "",
+      "river-mouth": "",
+      "flowers": "",
+      "underground": "",
+      "flying-light": "",
+      "flowers-white": "",
+      "flying-flowers-hybrid": "",
+      "flying-freshwater": "",
+      "rocks-rain": "",
+      "beach-rocks": ""
+    },
+    "types": {
+      "sea-creature": "",
+      "material": "",
+      "bug": "",
+      "fish": "",
+      "plant": "",
+      "shell": ""
+    }
+  }
+}

@@ -61,6 +61,8 @@ module.exports = {
         color: 0x3b83b2,
         author: {
           name: "Animal Crossing New Horizons Price Lookup",
+          iconURL:
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Animal_Crossing_Leaf.svg/252px-Animal_Crossing_Leaf.svg.png",
         },
         thumbnail: {
           url: item.img,
@@ -104,6 +106,8 @@ module.exports = {
           color: 0x3b83b2,
           author: {
             name: "Animal Crossing New Horizons Price Lookup",
+            iconURL:
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Animal_Crossing_Leaf.svg/252px-Animal_Crossing_Leaf.svg.png",
           },
           title: "Select from the following using numbers.",
           description: fNames.join(`\n`),

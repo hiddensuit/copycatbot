@@ -1,5 +1,5 @@
 module.exports = {
-  name: "status",
+  names: ["status"],
   description: "gets status of bot",
   callback: (client, message) => {
     message.channel.send(`\`\`\`

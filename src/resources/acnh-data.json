@@ -1,4 +1,18 @@
 {
+  "types": [
+    "sea-creature",
+    "material",
+    "bug",
+    "fish",
+    "plant",
+    "shell",
+    "sea-creatures",
+    "materials",
+    "bugs",
+    "fishes",
+    "plants",
+    "shells"
+  ],
   "items": [
     {
       "type": "sea-creature",
@@ -2699,12 +2713,12 @@
       "beach-rocks": ""
     },
     "types": {
-      "sea-creature": "",
-      "material": "",
-      "bug": "",
-      "fish": "",
-      "plant": "",
-      "shell": ""
+      "sea-creature": "🌊",
+      "material": "🧱",
+      "bug": "🐛",
+      "fish": "🐟",
+      "plant": "🌻",
+      "shell": "🐚"
     }
   }
 }

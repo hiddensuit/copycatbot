@@ -1,13 +1,12 @@
 module.exports = {
-  name: "cc",
+  names: ["copycollection", "cc", "copycat"],
+  description: "grabs a tofu collection",
   callback: async (client, m, type) => {
     let startMsg;
 
-    m.channel
-      .send(`send a tofu collection${type ? `   || mode: ${type} ||` : ""}`)
-      .then((message) => {
-        startMsg = message;
-      });
+    m.channel.send(`send a tofu collection${type ? `   || mode: ${type} ||` : ""}`).then((message) => {
+      startMsg = message;
+    });
 
     let codesArray = [];
     let pos = 49;
@@ -30,8 +29,7 @@ module.exports = {
       return codes;
     }
 
-    const filter = (message) =>
-      message.author.id === "792827809797898240" && message.embeds[0];
+    const filter = (message) => message.author.id === "792827809797898240" && message.embeds[0];
 
     await m.channel
       .awaitMessages({ filter, max: 1, time: 30_000, errors: ["time"] })
@@ -68,8 +66,7 @@ module.exports = {
             }
 
             for (let i = 0; i < codesArray.length; i++) {
-              if (!codesArray[i].includes("\n"))
-                codesArray[i] = codesArray[i].trim() + " ";
+              if (!codesArray[i].includes("\n")) codesArray[i] = codesArray[i].trim() + " ";
             }
 
             cm.edit(codesArray.join(""));

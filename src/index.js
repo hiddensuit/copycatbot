@@ -15,3 +15,5 @@ const client = new Client({
 eventHandler(client);
 
 client.login(token);
+
+const db = require("../database/models/index");

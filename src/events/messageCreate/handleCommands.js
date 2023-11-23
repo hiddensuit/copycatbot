@@ -1,10 +1,9 @@
 const { devs, testServer, prefix } = require("../../../config.json");
 const getLocalCommands = require("../../utils/getLocalCommands");
-const grabCollection = require("../../commands/tofu/karuta/grabCollection");
+const grabCollection = require("../../commands/tofu/grabCollection");
 
 module.exports = async (client, message) => {
-  if (!message.content.toLowerCase().startsWith(prefix) || message.author.bot)
-    return;
+  if (!message.content.toLowerCase().startsWith(prefix) || message.author.bot) return;
 
   const args = message.content.slice(prefix.length).trim().split(/ +/);
 
@@ -15,7 +14,7 @@ module.exports = async (client, message) => {
   const commands = getLocalCommands("commands");
 
   try {
-    const commandObject = commands.find((cmd) => cmd.name === command);
+    const commandObject = commands.find((cmd) => cmd.names.includes(command));
 
     if (!commandObject) return;
 
@@ -57,8 +56,7 @@ module.exports = async (client, message) => {
 
         if (!bot.permissions.has(permission)) {
           message.reply({
-            content:
-              "i do not have the required permissions to use this command",
+            content: "i do not have the required permissions to use this command",
             ephemeral: true,
           });
           return;
@@ -68,6 +66,6 @@ module.exports = async (client, message) => {
 
     await commandObject.callback(client, message, args);
   } catch (error) {
-    console.log(`there was an error running this command... ${error}`);
+    console.error(error);
   }
 };

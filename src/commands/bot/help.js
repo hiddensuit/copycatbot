@@ -2,7 +2,7 @@ const getLocalCommands = require("../../utils/getLocalCommands");
 
 module.exports = {
   names: ["help"],
-  callback: (client, message) => {
+  callback: ({ client, message }) => {
     const commands = getLocalCommands("commands");
 
     const fields = [];

@@ -5,7 +5,7 @@ const embed = require("../../utils/lu.js");
 module.exports = {
   names: ["aclookup", "aclu"],
   description: "looks up an items info from acnh",
-  callback: async (client, message, search) => {
+  callback: async ({ message, search }) => {
     const isabelle = await message.channel.createWebhook({
       name: "Isabelle",
       avatar: "https://pbs.twimg.com/profile_images/1481028496960884737/0TV2hqEf_400x400.jpg",

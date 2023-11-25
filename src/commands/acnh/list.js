@@ -15,7 +15,7 @@ module.exports = {
   names: ["acprices", "acp"],
   description:
     "lists items by order of descending price (default). accepts one argument as the filter for the items types",
-  callback: async (client, message, args) => {
+  callback: async ({ message, args }) => {
     items.sort((a, b) => b.bells - a.bells);
 
     function embed(item) {

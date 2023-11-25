@@ -1,12 +1,8 @@
 module.exports = {
   names: ["copycollection", "cc", "copycat"],
   description: "grabs a tofu collection",
-  callback: async (client, m, type) => {
-    let startMsg;
-
-    m.channel.send(`send a tofu collection${type ? `   || mode: ${type} ||` : ""}`).then((message) => {
-      startMsg = message;
-    });
+  callback: async ({ client, message, type }) => {
+    let startMsg = message.channel.send(`send a tofu collection${type ? `   || mode: ${type} ||` : ""}`);
 
     let codesArray = [];
     let pos = 49;
@@ -29,15 +25,15 @@ module.exports = {
       return codes;
     }
 
-    const filter = (message) => message.author.id === "792827809797898240" && message.embeds[0];
+    const filter = (m) => m.author.id === "792827809797898240" && m.embeds[0];
 
-    await m.channel
+    await message.channel
       .awaitMessages({ filter, max: 1, time: 30_000, errors: ["time"] })
       .then((cArray) => {
         const c = cArray.first();
 
         if (!c.embeds[0].data.author.name.includes("Card Collection"))
-          return m.channel.send("send a collection next time");
+          return message.channel.send("send a collection next time");
 
         codesArray.push(...getCodes(c));
 

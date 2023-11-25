@@ -1,4 +1,5 @@
 const { devs, testServer, prefix } = require("../../../config.json");
+const db = require("../../../database/models/index");
 const getLocalCommands = require("../../utils/getLocalCommands");
 const grabCollection = require("../../commands/tofu/grabCollection");
 
@@ -12,6 +13,15 @@ module.exports = async (client, message) => {
   const command = args.shift().toLowerCase();
 
   const commands = getLocalCommands("commands");
+
+  const categories = await db.GIF_Category.findAll();
+  const names = [];
+  for (category of categories) names.push(category.name);
+
+  if (names.includes(command)) {
+    const gif = require("../../commands/gif/gif");
+    gif.callback({ client, message, args, db, command });
+  }
 
   try {
     const commandObject = commands.find((cmd) => cmd.names.includes(command));
@@ -64,7 +74,7 @@ module.exports = async (client, message) => {
       }
     }
 
-    await commandObject.callback(client, message, args);
+    await commandObject.callback({ client, message, args, db, command });
   } catch (error) {
     console.error(error);
   }

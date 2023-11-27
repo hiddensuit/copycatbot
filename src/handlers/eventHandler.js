@@ -1,7 +1,7 @@
 const path = require("path");
 const getAllFiles = require("../utils/getAllFiles");
 
-module.exports = (client) => {
+module.exports = (client, db) => {
   const eventFolders = getAllFiles(path.join(__dirname, "..", "events"), true);
 
   for (const eventFolder of eventFolders) {
@@ -13,7 +13,7 @@ module.exports = (client) => {
     client.on(eventName, async (...args) => {
       for (const eventFile of eventFiles) {
         const eventFunction = require(eventFile);
-        await eventFunction(client, ...args);
+        await eventFunction(client, ...args, db);
       }
     });
   }

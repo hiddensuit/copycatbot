@@ -1,9 +1,8 @@
 const { devs, testServer, prefix } = require("../../../config.json");
-const db = require("../../../database/models/index");
 const getLocalCommands = require("../../utils/getLocalCommands");
 const grabCollection = require("../../commands/tofu/grabCollection");
 
-module.exports = async (client, message) => {
+module.exports = async (client, message, db) => {
   if (message.author.bot) return;
 
   const [user, created] = await db.User.findOrCreate({ where: { id: message.author.id } });

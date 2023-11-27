@@ -12,6 +12,7 @@
   "dependencies": {
     "@napi-rs/canvas": "^0.1.44",
     "discord.js": "^14.13.0",
+    "mysql2": "^3.6.5",
     "sequelize": "^6.34.0",
     "sqlite3": "^5.1.6",
     "tensify": "^0.0.4"

@@ -4,6 +4,7 @@ const getLocalCommands = require("../../utils/getLocalCommands");
 const grabCollection = require("../../commands/tofu/grabCollection");
 
 module.exports = async (client, message) => {
+  await db.User.findOrCreate({ where: { id: message.author.id } });
   if (!message.content.toLowerCase().startsWith(prefix) || message.author.bot) return;
 
   const args = message.content.slice(prefix.length).trim().split(/ +/);

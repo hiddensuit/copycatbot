@@ -1,10 +1,11 @@
 const { PermissionFlagsBits, ButtonBuilder, ButtonStyle, ActionRowBuilder } = require("discord.js");
 
 module.exports = {
-  names: ["gifcategoryremove", "gcr"],
-  description: "remove a gif category.",
+  names: ["gifcategoryremove", "gcr", "gifcategorydelete"],
+  args: ["<category>"],
+  description: "remove a gif category (will not remove if category has gifs).",
   testOnly: true,
-  permissionsRequired: [PermissionFlagsBits.Administrator],
+  devOnly: true,
   callback: async ({ message, args, db }) => {
     if (!args[0]) return message.channel.send("provide a category");
 

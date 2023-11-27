@@ -2,10 +2,11 @@ const { PermissionFlagsBits } = require("discord.js");
 const capitalize = require("../../utils/capitalize");
 
 module.exports = {
-  names: ["gl", "giflist"],
+  names: ["gl", "giflist", "gifs"],
+  args: ["optional=<category/gifurl>"],
   description: "get a list of all gif categorys and # of urls",
   testOnly: true,
-  permissionsRequired: [PermissionFlagsBits.Administrator],
+  devOnly: true,
   callback: async ({ message, args, db }) => {
     const desc = [];
     const desc2 = [];
@@ -37,11 +38,15 @@ module.exports = {
 
     const categories = await db.GIF_Category.findAll({ attributes: ["name"], include: db.GIF_URLS });
 
-    for (category of categories) {
-      desc.push(`
-        **${capitalize(category.name)}** - *${
-        category.GIF_URLs[0] ? `${category.GIF_URLs.length} URLs` : "No URLs..."
-      }*`);
+    for (var i = 0; i < categories.length; i++) {
+      let catDesc = {};
+      catDesc.name = `**${capitalize(categories[i].name)}**`;
+      catDesc.value = `${
+        categories[i].GIF_URLs[0] ? `${categories[i].GIF_URLs.length} URLs` : "*No URLs...*"
+      }`;
+      catDesc.inline = true;
+
+      desc.push(catDesc);
     }
 
     const embed = {
@@ -50,7 +55,7 @@ module.exports = {
         name: "copycatbot",
       },
       title: "List of GIF Categorys",
-      description: desc.join("\n"),
+      fields: desc,
     };
 
     message.channel.send({ embeds: [embed] });

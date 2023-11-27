@@ -1,10 +1,11 @@
 const { PermissionFlagsBits } = require("discord.js");
 
 module.exports = {
-  names: ["gifcategoryadd", "gca"],
+  names: ["gifcategoryadd", "gca", "gifcategorycreate"],
   description: "add a new gif category.",
+  args: ["<category>", "<gifurl>"],
   testOnly: true,
-  permissionsRequired: [PermissionFlagsBits.Administrator],
+  devOnly: true,
   callback: async ({ message, args, db }) => {
     if (!args[0] || args.length > 1) return message.channel.send("provide one category");
 

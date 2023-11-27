@@ -1,10 +1,11 @@
 const { PermissionFlagsBits } = require("discord.js");
 
 module.exports = {
-  names: ["gifadd", "ga"],
+  names: ["gifadd", "ga", "gifcreate"],
   description: "add a new gif url to a category.",
+  args: ["<gifurl>"],
   testOnly: true,
-  permissionsRequired: [PermissionFlagsBits.Administrator],
+  devOnly: true,
   callback: async ({ message, args, db }) => {
     if (!args[0] || args.length < 2) return message.channel.send("provide a category");
 
@@ -17,7 +18,7 @@ module.exports = {
     try {
       let [gif, created] = await db.GIF_URLS.findOrCreate({
         where: { url: gifURL },
-        defaults: { url: gifURL, GIFCategoryId: category.id },
+        defaults: { url: gifURL, GIFCategoryId: category.id, UserId: message.author.id },
         validate: true,
       });
       if (created)

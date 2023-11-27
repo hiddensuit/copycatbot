@@ -1,6 +1,7 @@
 module.exports = {
   names: ["copycollection", "cc", "copycat"],
-  description: "grabs a tofu collection",
+  args: ["<mode>"],
+  description: "grabs a tofu collection. currently has two modes: normal format (default), fusionboard <tf>",
   callback: async ({ client, message, type }) => {
     let startMsg = message.channel.send(`send a tofu collection${type ? `   || mode: ${type} ||` : ""}`);
 

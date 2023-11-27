@@ -1,10 +1,11 @@
 const { PermissionFlagsBits, ButtonBuilder, ButtonStyle, ActionRowBuilder } = require("discord.js");
 
 module.exports = {
-  names: ["gifremove", "gr"],
+  names: ["gifremove", "gr", "gifdelete"],
+  args: ["<gifurl>"],
   description: "remove a gif url.",
   testOnly: true,
-  permissionsRequired: [PermissionFlagsBits.Administrator],
+  devOnly: true,
   callback: async ({ message, args, db }) => {
     if (!args[0]) return message.channel.send("provide a gif");
 

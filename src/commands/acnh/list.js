@@ -12,9 +12,9 @@ const comma = require("../../utils/numberComma");
 const lu = require("../../utils/lu.js");
 
 module.exports = {
-  names: ["acprices", "acp"],
-  description:
-    "lists items by order of descending price (default). accepts one argument as the filter for the items types",
+  names: ["acprices", "acp", "acl", "aclist"],
+  args: ["<type>"],
+  description: "lists items by order of descending price. accepts one argument as a filter.",
   callback: async ({ message, args }) => {
     items.sort((a, b) => b.bells - a.bells);
 

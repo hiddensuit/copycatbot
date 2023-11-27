@@ -3,18 +3,19 @@ const capitalize = require("../../utils/capitalize");
 const embed = require("../../utils/lu.js");
 
 module.exports = {
-  names: ["aclookup", "aclu"],
-  description: "looks up an items info from acnh",
-  callback: async ({ message, search }) => {
+  names: ["aclookup", "aclu", "acsearch", "acs"],
+  args: ["<item>"],
+  description: "look up an item from animal crossing new horizons.",
+  callback: async ({ message, args }) => {
     const isabelle = await message.channel.createWebhook({
       name: "Isabelle",
       avatar: "https://pbs.twimg.com/profile_images/1481028496960884737/0TV2hqEf_400x400.jpg",
     });
 
-    if (!search[0]) return message.channel.send("u didnt search for anything lol");
+    if (!args[0]) return message.channel.send("u didnt search for anything lol");
 
     let i = acData.items.find((i) => {
-      return i.searchName === search.join(" ").toLowerCase();
+      return i.searchName === args.join(" ").toLowerCase();
     });
 
     if (!i)

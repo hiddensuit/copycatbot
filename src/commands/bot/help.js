@@ -75,6 +75,8 @@ module.exports = {
       }
     } else {
       for (category of commandCategories) {
+        if (category.name === "dev") continue;
+
         let value = [];
         for (command of category.commands) {
           if (!command.hide) value.push(command.names[0]);

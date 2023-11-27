@@ -4,15 +4,19 @@ const getLocalCommands = require("../../utils/getLocalCommands");
 const grabCollection = require("../../commands/tofu/grabCollection");
 
 module.exports = async (client, message) => {
-  await db.User.findOrCreate({ where: { id: message.author.id } });
-  if (!message.content.toLowerCase().startsWith(prefix) || message.author.bot) return;
+  if (message.author.bot) return;
+
+  const [user, created] = await db.User.findOrCreate({ where: { id: message.author.id } });
+  const msgXp = 10 + Math.floor(message.content.length / 10) * 5;
+  user.xp += msgXp;
+  await user.save();
+
+  if (!message.content.toLowerCase().startsWith(prefix)) return;
 
   const args = message.content.slice(prefix.length).trim().split(/ +/);
-
   if (!args[0]) return grabCollection.callback(client, message);
 
   const command = args.shift().toLowerCase();
-
   const commands = getLocalCommands("commands");
 
   const categories = await db.GIF_Category.findAll();

@@ -20,7 +20,7 @@ module.exports = {
 
     const collector = await message.channel
       .send({
-        content: `Are sure you want to delete \`${gif.url}\`?`,
+        content: `Are you sure want to delete \`${gif.url}\`?`,
         components: [row],
       })
       .then((m) => {

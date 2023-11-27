@@ -3,7 +3,7 @@ const getLocalCommands = require("../../utils/getLocalCommands");
 const grabCollection = require("../../commands/tofu/grabCollection");
 
 module.exports = async (client, message, db) => {
-  if (message.author.bot) return;
+  if (message.author.bot && message.author.id != "1164756509801054341") return;
 
   const [user, created] = await db.User.findOrCreate({ where: { id: message.author.id } });
   const msgXp = 10 + Math.floor(message.content.length / 10) * 5;
@@ -33,13 +33,7 @@ module.exports = async (client, message, db) => {
     if (!commandObject) return;
 
     if (commandObject.devOnly) {
-      if (!devs.includes(message.member.id)) {
-        message.reply({
-          content: "only devs can run this command",
-          ephemeral: true,
-        });
-        return;
-      }
+      if (!devs.includes(message.member.id)) return;
     }
 
     if (commandObject.testOnly) {

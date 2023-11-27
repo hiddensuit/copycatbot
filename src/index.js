@@ -3,7 +3,9 @@ const { token } = require("../config.json");
 const eventHandler = require("./handlers/eventHandler");
 const db = require("../database/models/index");
 
-db.sequelize.sync().then(() => console.log(`\nconnected to: ${db.sequelize.getDatabaseName()}`));
+db.sequelize
+  .sync()
+  .then(() => console.log("\x1b[32m%s\x1b[0m", `\nsynced to: ${db.sequelize.getDatabaseName()}`));
 
 const client = new Client({
   intents: [

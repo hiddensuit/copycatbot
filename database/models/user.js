@@ -1,5 +1,5 @@
 "use strict";
-const { Model } = require("sequelize");
+const { Model, DATE } = require("sequelize");
 module.exports = (sequelize, DataTypes) => {
   class User extends Model {
     /**
@@ -31,6 +31,21 @@ module.exports = (sequelize, DataTypes) => {
         validate: {
           min: 0,
         },
+      },
+      gymPoints: {
+        type: DataTypes.INTEGER,
+        defaultValue: 0,
+        validate: {
+          min: 0,
+        },
+      },
+      bio: {
+        type: DataTypes.STRING,
+        allowNull: true,
+      },
+      lastDaily: {
+        type: DataTypes.DATE,
+        allowNull: true,
       },
       gifLimit: {
         type: DataTypes.INTEGER,

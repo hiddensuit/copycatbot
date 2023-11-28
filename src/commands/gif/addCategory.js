@@ -3,7 +3,8 @@ const { PermissionFlagsBits } = require("discord.js");
 module.exports = {
   names: ["gifcategoryadd", "gca", "gifcategorycreate"],
   description: "add a new gif category.",
-  args: ["<category>", "<gifurl>"],
+  args: ["<category>"],
+  examples: ["gca bully", "gca slap"],
   testOnly: true,
   devOnly: true,
   callback: async ({ message, args, db }) => {

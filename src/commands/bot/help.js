@@ -14,11 +14,11 @@ module.exports = {
       author: {
         name: "copycat commands",
       },
-      title: "Command Info",
+      title: "Command Categories",
       fields: [],
       description: "",
       footer: {
-        text: `for more info about a category or command, go \`cc help (category/command)\``,
+        text: `for more info about a category, do 'cc help (category)'`,
       },
     };
 
@@ -39,55 +39,46 @@ module.exports = {
     }
 
     if (specifiedCat) {
-      (embed.footer = {
+      let desc = [];
+      embed.footer = {
         text: `for more info about a command, go \`cc help (command)\``,
-      }),
-        (embed.title = `${capitalize(specifiedCat.name)} Details`);
+      };
+      embed.title = `${capitalize(specifiedCat.name)} Details`;
+
+      //prettier-ignore
+
       for (command of specifiedCat.commands) {
-        if (!command.hide) {
-          embed.fields.push({
-            name: `**${command.names[0]}**${
-              command.names.slice(1)[0] ? ` - (*${command.names.slice(1).join(", ")}*)` : " "
-            }`,
-            value: command.description ? command.description : "*No description...*",
-            inline: true,
-          });
-        }
+        if (command.hide) continue;
+
+        desc.push(`__**${command.names[0]}**__ ${command.names.slice(1)[0] ? ` (*${command.names.slice(1).join(", ")}*)` : " "}`
+        );
+        specifiedCommand.examples ? embed.footer = { text: `ex: 'cc ${specifiedCommand.examples.join("',   'cc ")}'`} : false;
+        command.description ? desc.push(`\`\`\`${command.description}\`\`\``) : "*No description...*";
       }
+
+      embed.description = desc.join("\n");
     } else if (specifiedCommand) {
+      embed.title = `${capitalize(specifiedCommand.names[0])} Info`;
+      embed.footer = specifiedCommand.examples
+        ? { text: `ex: 'cc ${specifiedCommand.examples.join("',   'cc ")}'` }
+        : {};
+
+      let desc = [];
       const aliases = specifiedCommand.names.slice(1);
 
-      embed.title = `${capitalize(specifiedCommand.names[0])} Details`;
-      embed.description = `\`\`\`${specifiedCommand.description}\`\`\``;
-      embed.footer = {};
+      if (aliases[0]) desc.push(`***Aliases***: \`${aliases.join("`, `")}\``);
+      if (specifiedCommand.args)
+        desc.push(`***Options***: \`cc ${specifiedCommand.names[0]} ${specifiedCommand.args.join(" ")}\``);
+      desc.push(`\n**Command Description**\`\`\`${specifiedCommand.description}\`\`\``);
 
-      if (aliases[0]) {
-        embed.fields.push({
-          name: "Aliases",
-          value: aliases.join(", "),
-        });
-      }
-      if (specifiedCommand.args) {
-        embed.fields.push({
-          name: "Options",
-          value: `\`cc ${specifiedCommand.names[0]} ${specifiedCommand.args.join(" ")}\``,
-        });
-      }
+      embed.description = desc.join("\n");
     } else {
+      let desc = [];
       for (category of commandCategories) {
         if (category.name === "dev") continue;
-
-        let value = [];
-        for (command of category.commands) {
-          if (!command.hide) value.push(command.names[0]);
-        }
-
-        embed.fields.push({
-          name: `${capitalize(category.name)} Commands`,
-          value: value.join("\n"),
-          inline: true,
-        });
+        desc.push(`• **${category.name}**`);
       }
+      embed.description = desc.join("\n");
     }
 
     return message.channel.send({ embeds: [embed] });

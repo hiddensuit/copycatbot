@@ -4,6 +4,7 @@ module.exports = {
   devOnly: true,
   hide: true,
   callback: ({ message }) => {
-    message.channel.send(message.content.substring(7));
+    const content = message.content.substring(7).length > 0 ? message.content.substring(7) : "lol";
+    message.channel.send(content);
   },
 };

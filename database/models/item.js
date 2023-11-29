@@ -27,8 +27,12 @@ module.exports = (sequelize, DataTypes) => {
         allowNull: false,
       },
       tier: {
-        type: DataTypes.STRING,
+        type: DataTypes.INTEGER,
         allowNull: false,
+        validate: {
+          min: 1,
+          max: 5,
+        },
       },
       type: {
         type: DataTypes.STRING,

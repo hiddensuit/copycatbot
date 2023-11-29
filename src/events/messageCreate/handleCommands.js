@@ -1,4 +1,4 @@
-const { devs, testServer, prefix } = require("../../../config.json");
+const { admins, testServer, prefix } = require("../../../config.json");
 const getLocalCommands = require("../../utils/getLocalCommands");
 const grabCollection = require("../../commands/tofu/grabCollection");
 
@@ -13,7 +13,6 @@ module.exports = async (client, message, db) => {
   if (!message.content.toLowerCase().startsWith(prefix)) return;
 
   const args = message.content.slice(prefix.length).trim().split(/ +/);
-  if (!args[0]) return grabCollection.callback(client, message);
 
   const command = args.shift().toLowerCase();
   const commands = getLocalCommands("commands");
@@ -30,10 +29,15 @@ module.exports = async (client, message, db) => {
   try {
     const commandObject = commands.find((cmd) => cmd.names.includes(command));
 
-    if (!commandObject) return;
+    if (!commandObject) return; // grabCollection.callback({ client, message, args });
+
+    if (commandObject.adminOnly) {
+      if (!admins.includes(message.member.id)) return;
+    }
 
     if (commandObject.devOnly) {
-      if (!devs.includes(message.member.id)) return;
+      let devArr = await db.User.findAll({ where: { dev: true }, attributes: ["id"] });
+      if (!devArr.find((u) => u.id === message.member.id)) return;
     }
 
     if (commandObject.testOnly) {

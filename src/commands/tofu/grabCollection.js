@@ -2,7 +2,8 @@ module.exports = {
   names: ["copycollection", "cc", "copycat"],
   args: ["<mode>"],
   description: "grabs a tofu collection. currently has two modes: normal format (default), fusionboard <tf>",
-  callback: async ({ client, message, type }) => {
+  callback: async ({ client, message, args }) => {
+    let type = args[0] ? args[0].toLowerCase : "";
     let startMsg = message.channel.send(`send a tofu collection${type ? `   || mode: ${type} ||` : ""}`);
 
     let codesArray = [];
@@ -10,7 +11,7 @@ module.exports = {
     let delimiter = "\n\n";
     let x = 50;
 
-    if (type == "tf") {
+    if (type === "tf") {
       pos = 2;
       delimiter = "\n";
       x = pos;

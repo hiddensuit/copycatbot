@@ -8,21 +8,6 @@ module.exports = (sequelize, DataTypes) => {
      * The `models/index` file will call this method automatically.
      */
     static associate(models) {
-      GIF_URLS.belongsTo(models.GIF_Category, {
-        foreignKey: {
-          field: "categoryId",
-          allowNull: false,
-          onDelete: "cascade",
-        },
-      });
-      models.GIF_Category.hasMany(GIF_URLS, {
-        foreignKey: {
-          field: "categoryId",
-          allowNull: false,
-          onDelete: "cascade",
-        },
-      });
-
       GIF_URLS.belongsTo(models.User, {
         foreignKey: {
           field: "userId",

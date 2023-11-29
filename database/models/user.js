@@ -18,6 +18,10 @@ module.exports = (sequelize, DataTypes) => {
         allowNull: false,
         primaryKey: true,
       },
+      dev: {
+        type: DataTypes.BOOLEAN,
+        defaultValue: false,
+      },
       balance: {
         type: DataTypes.INTEGER,
         defaultValue: 0,

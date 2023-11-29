@@ -22,7 +22,7 @@ module.exports = {
         });
     }
 
-    if (!user.lastDaily) tenDaily();
+    if (!user.lastDaily) return tenDaily();
     if (user.lastDaily.toDateString() === currentDate.toDateString())
       return message.channel.send("you have already claimed your daily today!");
 

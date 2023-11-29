@@ -5,7 +5,6 @@ module.exports = {
   names: ["gl", "giflist", "gifs"],
   args: ["optional=<category/gifurl>"],
   description: "get a list of all gif categorys and # of urls",
-  testOnly: true,
   devOnly: true,
   callback: async ({ message, args, db }) => {
     const desc = [];

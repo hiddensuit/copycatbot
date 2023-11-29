@@ -2,7 +2,6 @@ const numberWithCommas = require("../../utils/numberComma");
 
 module.exports = {
   names: ["profile", "p"],
-  testOnly: true,
   callback: async ({ client, message, args, db }) => {
     let user;
     let searchId = args[0] ? args[0] : "";
@@ -19,7 +18,7 @@ module.exports = {
         name: "copycat profile",
         icon_url: discUser.avatarURL(),
       },
-      title: `${discUser.globalName}'s Profile`,
+      title: discUser.globalName + `'s Profile`,
       url: "https://github.com/hiddensuit/copycatbot",
       thumbnail: {
         url: discUser.avatarURL(),
